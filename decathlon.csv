@@ -89,6 +89,46 @@ publishedAt,title,body,rating,author,useful
 2023-01-25T05:58:01+0100,,,5,"{'country': 'IN', 'authorId': 14267115, 'firstname': 'Shivaprasad', 'countryLabel': 'India'}",True
 2023-01-17T05:59:14+0100,,,5,"{'country': 'IN', 'authorId': 14243906, 'firstname': 'Siddhant', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-01-16T10:58:38+0100,,,4,"{'country': 'IN', 'authorId': 14241033, 'firstname': 'satish', 'countryLabel': 'India'}",True
+2022-11-23T05:18:48+0100,,,4,"{'country': 'IN', 'authorId': 11863059, 'firstname': 'Sarthak', 'countryLabel': 'India'}",True
+2022-11-18T08:22:36+0100,,,1,"{'country': 'IN', 'authorId': 14069573, 'firstname': 'vinod', 'countryLabel': 'India'}",False
+2022-11-07T12:51:57+0100,,,4,"{'country': 'IN', 'authorId': 14053620, 'firstname': 'pratik', 'countryLabel': 'India'}",True
+2022-11-03T17:41:54+0100,very good jacket,,5,"{'country': 'GB', 'authorId': 14035966, 'firstname': 'Kamil', 'countryLabel': 'Verenigd Koninkrijk'}",True
+2022-10-27T14:12:36+0200,,,1,,False
+2022-10-20T07:31:54+0200,,,5,"{'country': 'IN', 'authorId': 10468904, 'firstname': 'anton', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-26T09:43:57+0200,Superb jacket,,5,"{'country': 'IE', 'authorId': 13935588, 'firstname': 'Gearoid', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Ierland'}",True
+2022-09-06T08:40:47+0200,,,5,"{'country': 'IN', 'authorId': 13891852, 'firstname': 'Shankar', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-06T06:22:06+0200,,,5,"{'country': 'IN', 'authorId': 12195964, 'firstname': 'Girish', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-08-31T12:37:38+0200,"Great Feel And Really Cozy Feel , Really Durable.!",,5,"{'country': 'IN', 'authorId': 13863767, 'firstname': 'VALENTINO', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-08-19T06:58:38+0200,,,1,"{'country': 'IN', 'authorId': 13840919, 'firstname': 'shubham', 'gender': 'Man', 'countryLabel': 'India'}",False
+2022-08-02T10:26:04+0200,Great product,,5,"{'country': 'IN', 'authorId': 13788230, 'firstname': 'Jeemut', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-07-29T07:15:37+0200,,,4,"{'country': 'IN', 'authorId': 11509297, 'firstname': 'keshav', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-07-20T09:59:01+0200,,,5,"{'country': 'IN', 'authorId': 13737407, 'firstname': 'Anurag', 'countryLabel': 'India'}",True
+2022-06-23T07:48:57+0200,Best Quality,,5,"{'country': 'IN', 'authorId': 13209340, 'firstname': 'Abhishek', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-04-27T08:36:30+0200,Excellent,,5,"{'country': 'IN', 'authorId': 13471536, 'firstname': 'Harman', 'countryLabel': 'India'}",True
+2022-03-28T13:02:18+0200,Wind proof,,5,"{'country': 'IN', 'authorId': 13393725, 'firstname': 'Naveen', 'countryLabel': 'India'}",True
+2022-03-28T11:42:44+0200,Quality Matters,,5,"{'country': 'IN', 'authorId': 13273622, 'firstname': 'mohit', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-03-22T12:14:04+0100,Great,,4,,True
+2022-03-03T05:21:01+0100,For night ride,,2,"{'country': 'IN', 'authorId': 13325353, 'firstname': 'mukesh', 'gender': 'Man', 'countryLabel': 'India'}",False
+2022-02-22T07:53:53+0100,Nice water proof jacket,,4,"{'country': 'IN', 'authorId': 13295677, 'firstname': 'Hameed', 'countryLabel': 'India'}",True
+2022-02-17T05:25:50+0100,Fitting Good And Very Comfortable,,5,"{'country': 'IN', 'authorId': 12151534, 'firstname': 'Chamba', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-02-10T12:45:20+0100,This Stuff Is Value For Your Money,,5,"{'country': 'IN', 'authorId': 13268757, 'firstname': 'Vansh', 'gender': 'Man', 'age': 'Jonger dan 20', 'countryLabel': 'India'}",True
+2022-01-28T10:11:58+0100,Excellnt,,5,"{'country': 'IN', 'authorId': 13231271, 'firstname': 'manish', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-01-25T11:05:12+0100,It’s good for gym,,5,"{'country': 'IN', 'authorId': 12742549, 'firstname': 'bhavya', 'countryLabel': 'India'}",True
+2022-01-17T15:08:40+0100,Normal ok for cold,,4,"{'country': 'IN', 'authorId': 13181102, 'firstname': 'Pradeep', 'countryLabel': 'India'}",True
+2022-01-12T09:11:29+0100,Hello,,5,"{'country': 'IN', 'authorId': 12167170, 'firstname': 'Aftab Gull', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-05-18T17:42:17+0200,Nice,,4,"{'country': 'EG', 'authorId': 13168864, 'firstname': 'Mostafa', 'countryLabel': 'Egypte'}",True
+2022-02-02T06:15:28+0100,Good quality,,4,"{'country': 'IN', 'authorId': 13164644, 'firstname': 'pramod', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-01-06T10:27:33+0100,good,,5,"{'country': 'IN', 'authorId': 11771060, 'firstname': 'Ashwini', 'countryLabel': 'India'}",True
+2022-01-06T11:53:12+0100,Super,,5,"{'country': 'IN', 'authorId': 13161716, 'firstname': 'sandeep', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-01-05T15:53:33+0100,Looks good but not that great practically,,3,"{'country': 'IN', 'authorId': 13155382, 'firstname': 'Vivek', 'gender': 'Man', 'countryLabel': 'India'}",False
+2021-12-14T10:56:00+0100,School coat for my son,,5,"{'country': 'GB', 'authorId': 13016949, 'firstname': 'Julia', 'countryLabel': 'Verenigd Koninkrijk'}",True
+2021-12-15T20:04:36+0100,Good,,5,"{'country': 'IN', 'authorId': 13071606, 'firstname': 'Madhurjya', 'gender': 'Vrouw', 'age': '20-29', 'countryLabel': 'India'}",True
+2021-10-08T10:29:55+0200,Loved It,,5,"{'country': 'IN', 'authorId': 12874571, 'firstname': 'Harshit', 'gender': 'Man', 'countryLabel': 'India'}",True
+2021-09-24T11:51:46+0200,Excellent,,5,"{'country': 'IN', 'authorId': 12815091, 'firstname': 'Meherab', 'countryLabel': 'India'}",True
+2021-06-14T13:52:24+0200,Nice,,5,"{'country': 'IN', 'authorId': 11982564, 'firstname': 'Sanju', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2021-06-15T13:27:05+0200,Mst,,5,"{'country': 'IN', 'authorId': 11982564, 'firstname': 'Sanju', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2021-06-12T11:21:01+0200,Excellent,,5,"{'country': 'GB', 'authorId': 12373643, 'firstname': 'Michael', 'countryLabel': 'Verenigd Koninkrijk'}",True
+2021-04-07T07:31:29+0200,Love these jackets,,5,,True
 2023-02-14T20:55:09+0100,Super fijn jas,,5,"{'country': 'NL', 'authorId': 14320623, 'firstname': 'Zarife', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
 2023-02-07T18:07:13+0100,Prachtige jas voor een mooie prijs,,5,"{'country': 'NL', 'authorId': 14303040, 'firstname': 'Sheila', 'countryLabel': 'Nederland'}",True
 2023-01-25T22:26:21+0100,Perfecte jas voor deze koude dagen,,5,"{'country': 'NL', 'authorId': 12001174, 'firstname': 'Frank', 'countryLabel': 'Nederland'}",True
@@ -189,6 +229,46 @@ publishedAt,title,body,rating,author,useful
 2021-11-08T09:06:42+0100,Vlugge bezorging en kwaliteit die je mag verwachte,,5,"{'country': 'NL', 'authorId': 12903765, 'firstname': 'Hgm van', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
 2021-11-05T09:20:14+0100,"Zeer warme, wind waterdichte Jas",,5,"{'country': 'NL', 'authorId': 12958713, 'firstname': 'Laila', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
 2021-11-04T09:03:47+0100,Top jas!,,5,"{'country': 'NL', 'authorId': 12956544, 'firstname': 'Mark', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-05T09:17:30+0100,"Ziet er erg goed uit, pasvorm is niet geweldig",,4,"{'country': 'NL', 'authorId': 12955433, 'firstname': 'Mark', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2021-11-02T08:58:40+0100,Prima jas met juist maat,,5,"{'country': 'NL', 'authorId': 12877737, 'firstname': 'Mark', 'countryLabel': 'Nederland'}",True
+2021-11-01T18:22:00+0100,VU,,5,"{'country': 'BE', 'authorId': 7079014, 'firstname': 'Griet', 'countryLabel': 'België'}",True
+2021-10-26T09:23:31+0200,heerlijk warm,,5,"{'country': 'NL', 'authorId': 12930467, 'firstname': 'Colette', 'countryLabel': 'Nederland'}",True
+2021-10-26T09:23:31+0200,Geweldig,,5,"{'country': 'NL', 'authorId': 12930403, 'firstname': 'Rishairo', 'countryLabel': 'Nederland'}",True
+2021-10-26T09:23:27+0200,Zeer goed.,,5,"{'country': 'NL', 'authorId': 12929759, 'firstname': 'Bert', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2021-10-25T09:37:25+0200,"online besteld,omgeruild aangezien jas eng uitvalt",,5,"{'country': 'NL', 'authorId': 12925959, 'firstname': 'frans', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-10-11T09:21:01+0200,"Heerlijke mooie jas,",,5,"{'country': 'NL', 'authorId': 12406512, 'firstname': 'Martijn', 'countryLabel': 'Nederland'}",True
+2021-05-17T11:25:16+0200,Heerlijke winterjas,,5,"{'country': 'NL', 'authorId': 8458689, 'firstname': 'Andy', 'countryLabel': 'Nederland'}",True
+2021-04-12T09:52:35+0200,Mooie degelijke jas,,5,"{'country': 'NL', 'authorId': 12265086, 'firstname': 'Mark', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-03-29T11:20:40+0200,Lekker warm,,5,"{'country': 'BE', 'authorId': 664352, 'firstname': 'torben', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'België'}",True
+2021-03-15T09:07:57+0100,Prima jas,,4,"{'country': 'NL', 'authorId': 12174370, 'firstname': 'Sabrina', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-03-12T08:59:15+0100,Warme jas,,5,"{'country': 'NL', 'authorId': 11848034, 'firstname': 'Teunis', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-02-18T09:03:18+0100,Sportieve en comfortabele winterjas.,,5,"{'country': 'NL', 'authorId': 12087765, 'firstname': 'Bob', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-02-18T09:04:11+0100,Lekkere warme winterjas,,4,"{'country': 'NL', 'authorId': 6483259, 'firstname': 'Roy', 'countryLabel': 'Nederland'}",True
+2021-02-15T09:32:08+0100,Geweldig!!,,5,"{'country': 'NL', 'authorId': 12071704, 'firstname': 'Saskia', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-01-21T09:51:55+0100,"Super warme jas, laat de winter maar komen.",,4,"{'country': 'NL', 'authorId': 11905111, 'firstname': 'Peter', 'countryLabel': 'Nederland'}",True
+2021-01-12T08:01:19+0100,bestel een L krijg ik na 8 dagen een XL opgestuurd,,1,"{'country': 'NL', 'authorId': 11952800, 'firstname': 'Marian', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-01-14T08:42:57+0100,"comfortabele, waterdichte jas",,5,"{'country': 'BE', 'authorId': 8674262, 'firstname': 'Greet', 'age': '40-49', 'countryLabel': 'België'}",True
+2020-12-23T10:13:51+0100,heerlijke warme jas.,,5,"{'country': 'NL', 'authorId': 7128979, 'firstname': 'Jaap', 'countryLabel': 'Nederland'}",True
+2020-12-07T09:29:08+0100,Super warme jas,,5,"{'country': 'NL', 'authorId': 11812174, 'firstname': 'MONICA', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2020-11-02T08:20:54+0100,Maakt belofte waar,,5,"{'country': 'NL', 'authorId': 11665048, 'firstname': 'Paul', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2020-10-26T07:54:09+0100,Heerlijke warme jas.,,5,"{'country': 'NL', 'authorId': 11616922, 'firstname': 'Daniel', 'countryLabel': 'Nederland'}",True
+2020-10-12T08:19:50+0200,Geweldige warme jas!,,5,"{'country': 'NL', 'authorId': 11535959, 'firstname': 'Jeroen', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2020-10-05T08:04:27+0200,Geweldig,,5,"{'country': 'NL', 'authorId': 11490674, 'firstname': 'Jelle', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2020-07-24T08:37:43+0200,Fijne maar zware jas,,4,"{'country': 'NL', 'authorId': 10997245, 'firstname': 'Jose', 'countryLabel': 'Nederland'}",True
+2020-03-12T11:56:09+0100,"Aangename, warme winterjas.",,5,,True
+2020-02-03T09:34:26+0100,Jas,,5,"{'country': 'NL', 'authorId': 6909054, 'firstname': 'Marc', 'countryLabel': 'Nederland'}",True
+2020-01-09T08:57:46+0100,topper,,5,"{'country': 'NL', 'authorId': 9619663, 'firstname': 'fred', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2019-12-29T11:55:04+0100,een aanrader,,5,,True
+2019-12-24T08:57:22+0100,Superfijne jas.,,5,"{'country': 'NL', 'authorId': 9484639, 'firstname': 'Hennie', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2019-11-30T11:05:11+0100,Een super warme jas voor een lage prijs,,5,"{'country': 'NL', 'authorId': 9320276, 'firstname': 'Stephen', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2019-11-27T15:23:26+0100,Super warm!!!,,5,"{'country': 'NL', 'authorId': 9287216, 'firstname': 'Buddy', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2019-11-09T15:29:11+0100,Echte top Jas,,5,,True
+2019-11-09T14:36:04+0100,Geweldig warme jas.,,5,"{'country': 'NL', 'authorId': 9122247, 'firstname': 'Rudolf', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2019-11-09T15:42:13+0100,Mooie jas,,5,"{'country': 'NL', 'authorId': 9097899, 'firstname': 'Valid', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2019-11-16T18:43:16+0100,goede winterjas,,5,,True
+2019-11-16T18:43:16+0100,Zeer goed,,5,,True
+2019-10-26T09:53:55+0200,stoere heren jas,,5,,True
+2019-02-11T19:16:25+0100,zeer praktische warme jas,,5,,True
 2023-04-01T15:26:43+0200,Prima jas en echt winddicht gebruik voor buiten pa,,5,"{'country': 'NL', 'authorId': 14316685, 'firstname': 'Coree', 'countryLabel': 'Nederland'}",True
 2023-03-05T12:11:15+0100,Goede softshell en warme,,5,"{'country': 'NL', 'authorId': 13757825, 'firstname': 'Lorena Andrea', 'countryLabel': 'Nederland'}",True
 2023-02-22T22:42:48+0100,Prima prijs kwaliteit,,4,"{'country': 'NL', 'authorId': 10785085, 'firstname': 'steven', 'countryLabel': 'Nederland'}",True
@@ -280,6 +360,32 @@ publishedAt,title,body,rating,author,useful
 2022-11-29T12:50:36+0100,,,5,"{'country': 'IN', 'authorId': 14107735, 'firstname': 'Dax', 'gender': 'Man', 'countryLabel': 'India'}",True
 2022-11-29T09:52:24+0100,,,5,"{'country': 'IN', 'authorId': 14107227, 'firstname': 'manoj', 'gender': 'Man', 'countryLabel': 'India'}",True
 2022-11-30T07:04:18+0100,,,5,"{'country': 'IN', 'authorId': 14105187, 'firstname': 'ankit', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-11-30T05:58:46+0100,,,5,"{'country': 'IN', 'authorId': 14104919, 'firstname': 'Avala', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-11-30T04:50:51+0100,,,5,"{'country': 'IN', 'authorId': 14104483, 'firstname': 'Ashirwad', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-11-29T13:12:40+0100,,,5,"{'country': 'IN', 'authorId': 14104066, 'firstname': 'Bhaskar', 'countryLabel': 'India'}",True
+2022-11-29T11:25:32+0100,,,5,"{'country': 'IN', 'authorId': 6978165, 'firstname': 'tusar', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-11-29T10:34:57+0100,,,5,"{'country': 'IN', 'authorId': 14103723, 'firstname': 'somnath', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-11-23T07:14:23+0100,,,4,"{'country': 'IN', 'authorId': 14090085, 'firstname': 'pravin', 'countryLabel': 'India'}",True
+2022-11-23T07:14:20+0100,,,4,"{'country': 'IN', 'authorId': 14090085, 'firstname': 'pravin', 'countryLabel': 'India'}",True
+2022-11-22T11:02:02+0100,Amazing product :clapping_hands::smiling_face_with_heart_eyes:,,5,"{'country': 'IN', 'authorId': 14086643, 'firstname': 'Sahil', 'gender': 'Vrouw', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-11-22T10:13:17+0100,,,5,"{'country': 'IN', 'authorId': 14084537, 'firstname': 'sushil', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-11-21T11:02:58+0100,,,5,"{'country': 'IN', 'authorId': 6625917, 'firstname': 'Meetu', 'countryLabel': 'India'}",True
+2022-11-18T06:02:10+0100,Best Product Forever,,5,"{'country': 'IN', 'authorId': 14069826, 'firstname': 'samir', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-11-18T05:32:19+0100,,,1,"{'country': 'IN', 'authorId': 13737478, 'firstname': 'Shankey', 'countryLabel': 'India'}",False
+2022-11-16T10:23:46+0100,,,5,"{'country': 'IN', 'authorId': 14069622, 'firstname': 'chandan', 'countryLabel': 'India'}",True
+2022-11-16T10:42:59+0100,,,5,"{'country': 'IN', 'authorId': 14069669, 'firstname': 'Bhartendra', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-11-17T11:00:30+0100,Great Product,,5,"{'country': 'IN', 'authorId': 12745840, 'firstname': 'Jaydip', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-10-27T08:48:40+0200,,,4,"{'country': 'IN', 'authorId': 14023773, 'firstname': 'vijay', 'countryLabel': 'India'}",True
+2022-10-24T10:21:57+0200,Macho,,5,"{'country': 'IN', 'authorId': 13976938, 'firstname': 'Basant', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-10-10T07:43:34+0200,,,5,"{'country': 'IN', 'authorId': 13978071, 'firstname': 'SARATH', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-10-10T07:26:27+0200,Nice Fitting And Nice Feel,,5,"{'country': 'IN', 'authorId': 11955189, 'firstname': 'Bhanu', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2022-10-05T08:19:44+0200,,,5,"{'country': 'IN', 'authorId': 13969711, 'firstname': 'Soumitra', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-10-05T06:17:47+0200,,,5,"{'country': 'IN', 'authorId': 13968446, 'firstname': 'Sushant', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-26T12:17:35+0200,,,5,"{'country': 'IN', 'authorId': 13945722, 'firstname': 'Ramkumar', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-12T06:00:35+0200,,,4,"{'country': 'IN', 'authorId': 13902838, 'firstname': 'sanjeet', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-06T06:50:04+0200,,,5,"{'country': 'IN', 'authorId': 13891342, 'firstname': 'Anudeep', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-08-24T12:57:28+0200,Nice,,5,"{'country': 'IN', 'authorId': 13856815, 'firstname': 'Singh', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-08-05T07:20:07+0200,,,5,"{'country': 'IN', 'authorId': 13795868, 'firstname': 'Karni', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-03-06T08:36:40+0100,Perfecte jas,,4,"{'country': 'NL', 'authorId': 14366080, 'firstname': 'Klaas', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
 2023-03-04T10:28:00+0100,Zeer tevreden,,4,"{'country': 'BE', 'authorId': 14360740, 'firstname': 'Freddy', 'gender': 'Man', 'countryLabel': 'België'}",True
 2023-02-24T08:16:04+0100,Het artikel is perfect zoals het  aanbevolen wordt,,5,"{'country': 'NL', 'authorId': 14298179, 'firstname': 'M', 'countryLabel': 'Nederland'}",True
@@ -360,26 +466,30 @@ publishedAt,title,body,rating,author,useful
 2023-03-14T11:45:34+0100,,,5,"{'country': 'IN', 'authorId': 14383188, 'firstname': 'Joydeep', 'countryLabel': 'India'}",False
 2023-03-14T11:43:15+0100,,,5,"{'country': 'IN', 'authorId': 14367221, 'firstname': 'sadagopan', 'countryLabel': 'India'}",False
 2023-03-15T09:06:11+0100,,,5,"{'country': 'IN', 'authorId': 14383132, 'firstname': 'Arun', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T12:44:24+0100,,,5,"{'country': 'IN', 'authorId': 14383020, 'firstname': 'Hamid', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T12:30:53+0100,,,5,"{'country': 'IN', 'authorId': 14382978, 'firstname': 'Mithlesh', 'countryLabel': 'India'}",False
-2023-03-14T11:22:17+0100,,,5,"{'country': 'IN', 'authorId': 14382962, 'firstname': 'Sanju', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T09:28:10+0100,,,4,"{'country': 'IN', 'authorId': 14382949, 'firstname': 'sourav', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T09:24:39+0100,,,5,"{'country': 'IN', 'authorId': 14382939, 'firstname': 'piyush', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T11:10:59+0100,,,5,"{'country': 'IN', 'authorId': 14382927, 'firstname': 'Shashank', 'countryLabel': 'India'}",False
-2023-03-14T09:18:53+0100,,,5,"{'country': 'IN', 'authorId': 14382896, 'firstname': 'supratik', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T12:20:28+0100,,,5,"{'country': 'IN', 'authorId': 14382860, 'firstname': 'Sangeetha', 'countryLabel': 'India'}",False
-2023-03-14T10:58:49+0100,,,5,"{'country': 'IN', 'authorId': 13736325, 'firstname': 'Shabir', 'countryLabel': 'India'}",False
-2023-03-14T10:58:33+0100,,,5,"{'country': 'IN', 'authorId': 13736325, 'firstname': 'Shabir', 'countryLabel': 'India'}",False
-2023-03-14T10:58:31+0100,,,5,"{'country': 'IN', 'authorId': 14382818, 'firstname': 'Chandan', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T08:58:57+0100,,,5,"{'country': 'IN', 'authorId': 13736325, 'firstname': 'Shabir', 'countryLabel': 'India'}",False
-2023-03-14T10:57:44+0100,,,4,"{'country': 'IN', 'authorId': 14382790, 'firstname': 'gaurav', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T08:52:51+0100,,,5,"{'country': 'IN', 'authorId': 14382748, 'firstname': 'Bhavit', 'countryLabel': 'India'}",False
-2023-03-14T08:49:44+0100,,,4,"{'country': 'IN', 'authorId': 14382727, 'firstname': 'Rafeek', 'countryLabel': 'India'}",False
-2023-03-14T08:44:46+0100,,,5,"{'country': 'IN', 'authorId': 14382686, 'firstname': 'vishwanath', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-14T08:43:59+0100,,,5,"{'country': 'IN', 'authorId': 14382666, 'firstname': 'Somnath', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-13T12:50:49+0100,,,5,"{'country': 'IN', 'authorId': 14381987, 'firstname': 'Deepak', 'countryLabel': 'India'}",False
-2023-03-13T09:56:34+0100,,,5,"{'country': 'IN', 'authorId': 14377762, 'firstname': 'akshay', 'gender': 'Man', 'countryLabel': 'India'}",False
-2023-03-10T08:43:50+0100,,,5,"{'country': 'IN', 'authorId': 14373295, 'firstname': 'Satapathy', 'countryLabel': 'India'}",True
+2023-03-09T08:54:36+0100,product is great but size is large for me,,4,"{'country': 'IN', 'authorId': 14371770, 'firstname': 'Chetan', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2023-03-09T08:47:49+0100,,,5,"{'country': 'IN', 'authorId': 14371290, 'firstname': 'tarun', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-09T08:45:50+0100,Very Good,,5,"{'country': 'IN', 'authorId': 14113707, 'firstname': 'Ramesh', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2023-03-08T09:31:59+0100,,,5,"{'country': 'IN', 'authorId': 11873065, 'firstname': 'Santhosh', 'countryLabel': 'India'}",True
+2023-03-08T09:25:34+0100,Material And Quality Is Good.,,5,"{'country': 'IN', 'authorId': 14370580, 'firstname': 'Abin', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'India'}",True
+2023-03-08T10:14:33+0100,,,4,"{'country': 'IN', 'authorId': 14369056, 'firstname': 'vinothkumar', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-07T11:34:25+0100,,,5,"{'country': 'IN', 'authorId': 14368505, 'firstname': 'Rittwick Kumar', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-07T12:30:28+0100,,,5,"{'country': 'IN', 'authorId': 6943063, 'firstname': 'Chander', 'countryLabel': 'India'}",True
+2023-03-07T13:15:59+0100,,,5,"{'country': 'IN', 'authorId': 14367554, 'firstname': 'Amar', 'countryLabel': 'India'}",True
+2023-03-07T12:14:22+0100,,,1,"{'country': 'IN', 'authorId': 14367228, 'firstname': 'eldho', 'gender': 'Man', 'countryLabel': 'India'}",False
+2023-03-07T12:09:34+0100,,,4,"{'country': 'IN', 'authorId': 14367014, 'firstname': 'Shailesh', 'countryLabel': 'India'}",True
+2023-03-07T10:26:04+0100,,,5,"{'country': 'IN', 'authorId': 14366986, 'firstname': 'Vraj', 'countryLabel': 'India'}",True
+2023-03-07T10:21:02+0100,,,5,"{'country': 'IN', 'authorId': 14366917, 'firstname': 'Ronak', 'countryLabel': 'India'}",True
+2023-03-06T10:42:41+0100,,,1,"{'country': 'IN', 'authorId': 14363070, 'firstname': 'Ashish', 'gender': 'Man', 'countryLabel': 'India'}",False
+2023-03-06T09:34:37+0100,,,3,"{'country': 'IN', 'authorId': 14359078, 'firstname': 'Jagdish', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-02T09:56:49+0100,Looks good,,4,"{'country': 'IN', 'authorId': 14356576, 'firstname': 'SOMI Reddy', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2023-03-02T09:12:37+0100,M.Rafiq,,4,"{'country': 'IN', 'authorId': 14356466, 'firstname': 'Mohd', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2023-03-01T09:12:08+0100,,,5,"{'country': 'IN', 'authorId': 14353204, 'firstname': 'arun', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-01T09:04:39+0100,,,5,"{'country': 'IN', 'authorId': 14353088, 'firstname': 'sukanta', 'countryLabel': 'India'}",True
+2023-02-28T11:26:34+0100,,,5,"{'country': 'IN', 'authorId': 14351730, 'firstname': 'Bhaskar', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-02-28T12:34:22+0100,,,5,"{'country': 'IN', 'authorId': 14350830, 'firstname': 'Rohit', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-02-27T10:58:46+0100,,,5,"{'country': 'IN', 'authorId': 14349547, 'firstname': 'Sanjay', 'countryLabel': 'India'}",True
+2023-02-28T09:06:00+0100,,,5,"{'country': 'IN', 'authorId': 8699957, 'firstname': 'Rohan', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-02-27T12:30:56+0100,,,5,"{'country': 'IN', 'authorId': 14346476, 'firstname': 'jitendra', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-02-11T23:51:47+0100,Zalige jas doet zeker aan de verwachtingen,,5,"{'country': 'BE', 'authorId': 5311159, 'firstname': 'steve', 'countryLabel': 'België'}",True
 2022-07-01T11:15:41+0200,Een softshell die echt waterdicht is!,,5,"{'country': 'BE', 'authorId': 910636, 'firstname': 'Cindy', 'countryLabel': 'België'}",True
 2022-06-25T18:23:24+0200,Xl,,5,"{'country': 'BE', 'authorId': 12692133, 'firstname': 'Gaston', 'countryLabel': 'België'}",True
@@ -483,6 +593,50 @@ par une…",,4,"{'country': 'FR', 'authorId': 14133603, 'firstname': 'Danielle',
 2022-11-20T21:42:51+0100,très bien conforme au…,,5,"{'country': 'FR', 'authorId': 1002646, 'firstname': 'Caroline', 'countryLabel': 'Frankrijk'}",True
 2022-11-20T18:42:05+0100,J'ai chaud dedans,,5,"{'country': 'FR', 'authorId': 11941353, 'firstname': 'Frédéric', 'countryLabel': 'Frankrijk'}",True
 2022-11-20T10:10:33+0100,Convient à mes attentes…,,5,"{'country': 'FR', 'authorId': 2181153, 'firstname': 'Laurent', 'countryLabel': 'Frankrijk'}",True
+2022-11-20T08:00:37+0100,super,,5,"{'country': 'FR', 'authorId': 1065994, 'firstname': 'Francois', 'countryLabel': 'Frankrijk'}",True
+2022-11-18T16:30:19+0100,Article super.,,5,"{'country': 'FR', 'authorId': 13733552, 'firstname': 'CHRISTINE', 'countryLabel': 'Frankrijk'}",True
+2022-11-17T23:20:28+0100,Super produit !,,5,"{'country': 'FR', 'authorId': 12006046, 'firstname': 'STEPHANE', 'countryLabel': 'Frankrijk'}",True
+2022-11-17T19:30:40+0100,"Bon produit.
+Prix correct.",,4,"{'country': 'FR', 'authorId': 14004502, 'firstname': 'Francois', 'countryLabel': 'Frankrijk'}",True
+2022-11-15T01:30:20+0100,Excellent Produit,,5,"{'country': 'FR', 'authorId': 408931, 'firstname': 'RENAUD', 'countryLabel': 'Frankrijk'}",True
+2022-11-15T14:42:53+0100,Taille un peu grand…,,4,"{'country': 'FR', 'authorId': 139232, 'firstname': 'PHILIPPE', 'countryLabel': 'Frankrijk'}",True
+2022-11-10T21:00:20+0100,"Bonne coupe, étanche à…",,5,"{'country': 'FR', 'authorId': 8627672, 'firstname': 'Pierre-Jean', 'countryLabel': 'Frankrijk'}",True
+2022-11-09T15:20:21+0100,Bon produit,,5,"{'country': 'FR', 'authorId': 14059600, 'firstname': 'AURELIE', 'countryLabel': 'Frankrijk'}",True
+2022-11-07T19:01:44+0100,Super produit Veste softshell…,,5,"{'country': 'FR', 'authorId': 4450847, 'firstname': 'Marc', 'countryLabel': 'Frankrijk'}",True
+2022-11-07T06:20:21+0100,Tient bien chaud et…,,5,"{'country': 'FR', 'authorId': 12984371, 'firstname': 'CEDRIC', 'countryLabel': 'Frankrijk'}",True
+2022-11-05T19:20:53+0100,La coupe est vraiment…,,5,"{'country': 'FR', 'authorId': 1404915, 'firstname': 'Caramail150586', 'countryLabel': 'Frankrijk'}",True
+2022-11-01T20:01:03+0100,Parfait,,5,"{'country': 'FR', 'authorId': 761376, 'firstname': 'Cecile', 'countryLabel': 'Frankrijk'}",True
+2022-11-01T15:40:20+0100,excellent,,4,"{'country': 'FR', 'authorId': 14039068, 'firstname': 'Aldo', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Frankrijk'}",True
+2022-11-01T08:40:25+0100,Très bien,,5,"{'country': 'FR', 'authorId': 13122823, 'firstname': 'Pierre', 'age': '30-39', 'countryLabel': 'Frankrijk'}",True
+2022-10-31T21:30:49+0100,Bon produit,,5,"{'country': 'FR', 'authorId': 109729, 'firstname': 'LAURENCE', 'countryLabel': 'Frankrijk'}",True
+2022-10-29T19:40:46+0200,Très bien pour temps…,,4,"{'country': 'FR', 'authorId': 9731145, 'firstname': 'Gérard', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-10-28T19:30:33+0200,Produit conforme à mes…,,5,"{'country': 'FR', 'authorId': 6855281, 'firstname': 'ARNAUD', 'countryLabel': 'Frankrijk'}",True
+2022-10-28T12:03:24+0200,Ca manque de couleurs…,,4,"{'country': 'FR', 'authorId': 14028165, 'firstname': 'MARIE FRANCOISE', 'countryLabel': 'Frankrijk'}",True
+2022-10-27T18:20:17+0200,Bon rapport qualité prix,,5,"{'country': 'FR', 'authorId': 12907712, 'firstname': 'Cédric', 'countryLabel': 'Frankrijk'}",True
+2022-10-27T14:30:23+0200,Parfait pour la mi saison.,,4,"{'country': 'FR', 'authorId': 13497110, 'firstname': 'Arnaud', 'countryLabel': 'Frankrijk'}",True
+2022-10-25T19:00:28+0200,"Bon produit, protège du…",,5,"{'country': 'FR', 'authorId': 5779858, 'firstname': 'arnaud', 'countryLabel': 'Frankrijk'}",True
+2022-10-25T11:35:58+0200,Dommage que l'on ne…,,5,"{'country': 'FR', 'authorId': 12418445, 'firstname': 'Maxime', 'countryLabel': 'Frankrijk'}",True
+2022-10-23T14:50:53+0200,J'ai choisi cet article…,,5,"{'country': 'FR', 'authorId': 9967824, 'firstname': 'regine', 'countryLabel': 'Frankrijk'}",True
+2022-10-20T11:30:17+0200,Tres bon rapport prix…,,5,"{'country': 'FR', 'authorId': 69693, 'firstname': 'Laurent', 'countryLabel': 'Frankrijk'}",True
+2022-10-18T20:41:19+0200,Top,,5,"{'country': 'FR', 'authorId': 6829590, 'firstname': 'Sabrina', 'age': '40-49', 'countryLabel': 'Frankrijk'}",True
+2022-10-17T14:10:59+0200,chaud et confortable,,4,"{'country': 'FR', 'authorId': 2295327, 'firstname': 'severine', 'countryLabel': 'Frankrijk'}",True
+2022-10-16T14:50:48+0200,Très bon produit!,,5,"{'country': 'FR', 'authorId': 1341238, 'firstname': 'Pablo', 'countryLabel': 'Frankrijk'}",True
+2022-10-16T09:00:40+0200,Pour l'instant protection assuré…,,4,"{'country': 'FR', 'authorId': 11903172, 'firstname': 'Fabrice', 'countryLabel': 'Frankrijk'}",True
+2022-10-13T22:10:32+0200,"Très satisfait du produit.
+Correspond…",,5,"{'country': 'FR', 'authorId': 7795598, 'firstname': 'STEPHANIE', 'countryLabel': 'Frankrijk'}",True
+2022-10-13T21:30:25+0200,la veste est bien…,,4,"{'country': 'FR', 'authorId': 1524811, 'firstname': 'Bernard', 'countryLabel': 'Frankrijk'}",True
+2022-10-13T15:30:20+0200,Ne fait pas le boulot,,3,"{'country': 'FR', 'authorId': 13777310, 'firstname': 'Jean-François', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",False
+2022-10-12T20:30:18+0200,Conforme à ce que…,,4,"{'country': 'FR', 'authorId': 7497904, 'firstname': 'Jacques', 'countryLabel': 'Frankrijk'}",True
+2022-10-11T08:30:25+0200,tres bon produit,,5,"{'country': 'FR', 'authorId': 13985243, 'firstname': 'FREDERIC', 'countryLabel': 'Frankrijk'}",True
+2022-10-10T20:21:46+0200,Très bon produit,,4,"{'country': 'FR', 'authorId': 1175537, 'firstname': 'Karine', 'countryLabel': 'Frankrijk'}",True
+2022-10-08T21:30:24+0200,"Trés bon produit ,…",,4,"{'country': 'FR', 'authorId': 13979103, 'firstname': 'Frederic', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-10-06T19:01:39+0200,"Excellent produit 
+Chaud et…",,5,"{'country': 'FR', 'authorId': 12724840, 'firstname': 'FABRICE', 'countryLabel': 'Frankrijk'}",True
+2022-10-04T20:10:39+0200,Très légère Et couvre…,,5,"{'country': 'FR', 'authorId': 10921194, 'firstname': 'Steve', 'countryLabel': 'Frankrijk'}",True
+2022-10-03T12:40:50+0200,Très bon coupe vent…,,4,"{'country': 'FR', 'authorId': 12040584, 'firstname': 'Jean Pierre', 'countryLabel': 'Frankrijk'}",True
+2022-10-02T21:11:12+0200,Une facilité de mouvement…,,5,"{'country': 'FR', 'authorId': 1858729, 'firstname': 'olivier', 'countryLabel': 'Frankrijk'}",True
+2022-10-02T18:40:28+0200,Très bons produits,,5,"{'country': 'FR', 'authorId': 13963812, 'firstname': 'Jean-Cyrille', 'age': '50-59', 'countryLabel': 'Frankrijk'}",True
+2023-04-05T18:15:56+0200,droeg weer,,5,"{'country': 'BE', 'authorId': 439969, 'firstname': 'Guido', 'gender': 'Man', 'countryLabel': 'België'}",True
 2023-03-29T17:57:34+0200,regenjas,,5,"{'country': 'BE', 'authorId': 7247164, 'firstname': 'Dan', 'countryLabel': 'België'}",True
 2023-02-27T12:19:17+0100,Jas,,5,"{'country': 'BE', 'authorId': 2595635, 'firstname': 'VEERLE', 'countryLabel': 'België'}",True
 2023-01-30T09:08:26+0100,Zeer tevreden,,5,"{'country': 'BE', 'authorId': 6146370, 'firstname': 'Chris', 'countryLabel': 'België'}",True
@@ -561,6 +715,7 @@ par une…",,4,"{'country': 'FR', 'authorId': 14133603, 'firstname': 'Danielle',
 2023-01-09T07:22:41+0100,,,2,"{'country': 'IN', 'authorId': 14218984, 'firstname': 'pavan', 'gender': 'Man', 'countryLabel': 'India'}",False
 2022-12-19T07:41:43+0100,,,4,"{'country': 'IN', 'authorId': 14167656, 'firstname': 'jagadish', 'gender': 'Man', 'countryLabel': 'India'}",True
 2022-12-16T04:58:48+0100,,,5,"{'country': 'IN', 'authorId': 14159833, 'firstname': 'Anupam', 'countryLabel': 'India'}",True
+2022-12-01T12:32:10+0100,,,5,"{'country': 'IN', 'authorId': 14113731, 'firstname': 'john', 'gender': 'Man', 'countryLabel': 'India'}",True
 2022-11-24T18:01:27+0100,Good,,5,"{'country': 'GB', 'authorId': 14092236, 'firstname': 'Vitalijus', 'gender': 'Man', 'countryLabel': 'Verenigd Koninkrijk'}",True
 2022-11-21T20:06:05+0100,Better than the picture,,5,"{'country': 'US', 'authorId': 6414429, 'firstname': 'Nathalie', 'countryLabel': 'Verenigde Staten van Amerika'}",True
 2022-11-16T06:46:57+0100,Very Nice,,5,"{'country': 'IN', 'authorId': 14070942, 'firstname': 'Amit', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
@@ -574,6 +729,23 @@ par une…",,4,"{'country': 'FR', 'authorId': 14133603, 'firstname': 'Danielle',
 2022-10-25T11:32:17+0200,,,5,"{'country': 'IN', 'authorId': 13846949, 'firstname': 'sandeep', 'countryLabel': 'India'}",True
 2022-10-25T06:16:33+0200,,,5,"{'country': 'IN', 'authorId': 14013078, 'firstname': 'bhumika', 'countryLabel': 'India'}",True
 2022-10-25T18:21:05+0200,Nice jacket,,4,"{'country': 'GB', 'authorId': 12210020, 'firstname': 'Andrew', 'countryLabel': 'Verenigd Koninkrijk'}",True
+2022-09-22T08:45:44+0200,,,5,"{'country': 'IN', 'authorId': 13935340, 'firstname': 'Ajit', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-20T12:31:47+0200,Very good. Nice colors,,5,"{'country': 'SG', 'authorId': 13920762, 'firstname': '', 'countryLabel': 'Singapore'}",True
+2022-09-19T02:46:23+0200,Favourite Jacket,,5,"{'country': 'SG', 'authorId': 13924096, 'firstname': 'Norhazean', 'countryLabel': 'Singapore'}",True
+2022-09-19T08:49:31+0200,,,5,"{'country': 'IN', 'authorId': 13922539, 'firstname': 'Suman', 'countryLabel': 'India'}",True
+2022-09-12T21:10:24+0200,,,5,"{'country': 'ZA', 'authorId': 13912555, 'firstname': 'Jeremy', 'age': '40-49', 'countryLabel': 'Zuid-Afrika'}",True
+2022-09-07T06:46:54+0200,Nice,,5,"{'country': 'IN', 'authorId': 11838799, 'firstname': 'Sandip', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'India'}",True
+2022-09-06T12:32:58+0200,性格比高,,5,"{'country': 'HK', 'authorId': 13893217, 'firstname': 'tsz cheung', 'countryLabel': 'Hong Kong'}",True
+2022-09-05T11:57:03+0200,,,5,"{'country': 'IN', 'authorId': 13887987, 'firstname': 'Sakina', 'countryLabel': 'India'}",True
+2022-09-02T09:28:32+0200,,,5,"{'country': 'IN', 'authorId': 13879931, 'firstname': 'prashanth', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-09-01T06:38:25+0200,,,5,"{'country': 'IN', 'authorId': 12002773, 'firstname': 'kamal', 'countryLabel': 'India'}",True
+2022-08-29T10:56:36+0200,,,5,"{'country': 'IN', 'authorId': 13862465, 'firstname': 'SRINIVASAN', 'countryLabel': 'India'}",True
+2022-08-22T11:24:08+0200,,,5,"{'country': 'IN', 'authorId': 13849164, 'firstname': 'SUBHRANIL', 'gender': 'Man', 'countryLabel': 'India'}",True
+2022-07-28T07:11:34+0200,,,5,"{'country': 'IN', 'authorId': 13769224, 'firstname': 'Swapnil', 'countryLabel': 'India'}",True
+2022-07-22T06:55:51+0200,,,5,"{'country': 'IN', 'authorId': 13064625, 'firstname': 'percy', 'countryLabel': 'India'}",True
+2022-07-19T09:47:13+0200,,,1,"{'country': 'IN', 'authorId': 13733553, 'firstname': 'aamir', 'gender': 'Man', 'countryLabel': 'India'}",False
+2022-07-19T11:02:38+0200,,,3,"{'country': 'IN', 'authorId': 13732272, 'firstname': 'Ck', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'India'}",False
+2022-07-18T09:56:24+0200,,,5,"{'country': 'IN', 'authorId': 13728020, 'firstname': 'Nitesh', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-01-04T09:18:05+0100,Heerlijk fijne jas om in hard te lopen!,,5,"{'country': 'NL', 'authorId': 14210300, 'firstname': 'Laura', 'countryLabel': 'Nederland'}",True
 2023-01-01T20:49:01+0100,Fijne jas,,4,"{'country': 'NL', 'authorId': 7806458, 'firstname': 'Lieke', 'countryLabel': 'Nederland'}",True
 2022-12-25T20:14:12+0100,Erg fijne waterafstotende jas!,,5,"{'country': 'NL', 'authorId': 14154347, 'firstname': 'Xander', 'countryLabel': 'Nederland'}",True
@@ -658,6 +830,7 @@ par une…",,4,"{'country': 'FR', 'authorId': 14133603, 'firstname': 'Danielle',
 2020-12-21T09:52:53+0100,Tolle Jacke!,,5,"{'country': 'DE', 'authorId': 11867732, 'firstname': 'Katja', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",True
 2020-12-21T09:52:29+0100,Absolut top,,5,"{'country': 'DE', 'authorId': 11864751, 'firstname': 'Sandra', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'Duitsland'}",True
 2020-11-24T07:05:39+0100,Super Jacke,,5,"{'country': 'DE', 'authorId': 11770756, 'firstname': 'Coreen', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Duitsland'}",True
+2023-04-05T20:22:18+0200,Très bien conçue pour…,,5,"{'country': 'FR', 'authorId': 13451263, 'firstname': 'Isabelle', 'countryLabel': 'Frankrijk'}",True
 2023-04-03T22:39:13+0200,Je l'ai utilisé pour…,,4,"{'country': 'FR', 'authorId': 14427099, 'firstname': 'Catherine', 'countryLabel': 'Frankrijk'}",True
 2023-03-26T09:41:16+0200,"Bonjour , enfin une…",,5,"{'country': 'FR', 'authorId': 6768303, 'firstname': 'Nathalie', 'countryLabel': 'Frankrijk'}",True
 2023-03-20T14:10:41+0100,Top !!,,5,"{'country': 'FR', 'authorId': 13831955, 'firstname': 'Delphine', 'countryLabel': 'Frankrijk'}",True
@@ -675,6 +848,46 @@ par une…",,4,"{'country': 'FR', 'authorId': 14133603, 'firstname': 'Danielle',
 2023-02-27T15:01:56+0100,Veste fine et chaude.…,,4,"{'country': 'FR', 'authorId': 13415475, 'firstname': 'FRANCOISE', 'countryLabel': 'Frankrijk'}",True
 2023-02-27T09:33:59+0100,"Super confortable !
 Trou pour…",,5,"{'country': 'FR', 'authorId': 14349560, 'firstname': 'Julie', 'age': 'Jonger dan 20', 'countryLabel': 'Frankrijk'}",True
+2023-02-24T20:42:42+0100,Très bon produit. Idéal…,,4,"{'country': 'FR', 'authorId': 573474, 'firstname': 'ESTELLE', 'countryLabel': 'Frankrijk'}",True
+2023-02-21T13:23:41+0100,"Sans surprise 
+Bon rapport…",,5,"{'country': 'FR', 'authorId': 13857926, 'firstname': 'Sandrine in toulouse', 'countryLabel': 'Frankrijk'}",True
+2023-02-18T19:48:08+0100,"Ultra pratique, avec la…",,5,"{'country': 'FR', 'authorId': 14329792, 'firstname': 'Céline', 'countryLabel': 'Frankrijk'}",True
+2023-02-15T21:47:49+0100,Bon produit,,5,"{'country': 'FR', 'authorId': 9924874, 'firstname': 'Veronique', 'countryLabel': 'Frankrijk'}",True
+2023-02-15T20:07:17+0100,Excellente veste. Vraiment bien…,,5,"{'country': 'FR', 'authorId': 11776997, 'firstname': 'Angelique', 'countryLabel': 'Frankrijk'}",True
+2023-02-15T19:15:53+0100,Veste Running,,5,"{'country': 'FR', 'authorId': 14322768, 'firstname': 'Nathalie', 'countryLabel': 'Frankrijk'}",True
+2023-02-14T18:40:44+0100,Très bien,,5,"{'country': 'FR', 'authorId': 68726, 'firstname': 'Caroline', 'countryLabel': 'Frankrijk'}",True
+2023-02-13T18:36:18+0100,Très bon rapport qualité…,,5,"{'country': 'FR', 'authorId': 10836717, 'firstname': 'SEBASTIEN', 'countryLabel': 'Frankrijk'}",True
+2023-02-11T18:09:45+0100,seul bémol taille petit,,4,"{'country': 'FR', 'authorId': 11972608, 'firstname': 'Sylvia', 'countryLabel': 'Frankrijk'}",True
+2023-02-09T18:31:04+0100,Vraiment efficace avec un…,,5,"{'country': 'FR', 'authorId': 190579, 'firstname': 'Guillaume', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2023-02-06T19:12:16+0100,"Parfait, chaude",,5,"{'country': 'FR', 'authorId': 2078047, 'firstname': 'AURELIE', 'countryLabel': 'Frankrijk'}",True
+2023-02-06T18:33:25+0100,Top!,,5,"{'country': 'FR', 'authorId': 14125432, 'firstname': 'Stéphanie', 'countryLabel': 'Frankrijk'}",True
+2023-02-06T17:46:04+0100,Super,,5,"{'country': 'FR', 'authorId': 4797168, 'firstname': 'LUC', 'countryLabel': 'Frankrijk'}",True
+2023-02-05T18:26:15+0100,La veste remplie bien…,,5,"{'country': 'FR', 'authorId': 8074328, 'firstname': 'CECILE', 'countryLabel': 'Frankrijk'}",True
+2023-02-07T14:41:47+0100,ras,,5,"{'country': 'FR', 'authorId': 12457138, 'firstname': 'Claire', 'countryLabel': 'Frankrijk'}",True
+2023-02-04T01:08:20+0100,Article de sport répondant…,,5,"{'country': 'FR', 'authorId': 12150527, 'firstname': 'NATHALIE', 'countryLabel': 'Frankrijk'}",True
+2023-02-03T19:36:25+0100,1 peu juste en…,,5,"{'country': 'FR', 'authorId': 14290963, 'firstname': 'Sylvia', 'countryLabel': 'Frankrijk'}",True
+2023-02-03T18:39:36+0100,Idéal,,5,"{'country': 'FR', 'authorId': 14290675, 'firstname': 'Catherine', 'countryLabel': 'Frankrijk'}",True
+2023-02-03T12:54:27+0100,J’adore elle est très…,,5,"{'country': 'FR', 'authorId': 14219769, 'firstname': 'Elodie', 'countryLabel': 'Frankrijk'}",True
+2023-02-01T16:59:37+0100,Parfait pour courir après…,,5,"{'country': 'FR', 'authorId': 5976229, 'firstname': 'Laura', 'countryLabel': 'Frankrijk'}",True
+2023-01-31T20:05:51+0100,Super veste complète coupe…,,5,"{'country': 'FR', 'authorId': 13555414, 'firstname': 'Nais', 'countryLabel': 'Frankrijk'}",True
+2023-01-29T20:15:30+0100,Très confortable,,5,"{'country': 'CH', 'authorId': 14279390, 'firstname': 'Bernadette', 'countryLabel': 'Zwitserland'}",True
+2023-01-27T21:51:10+0100,protège bien du vent…,,4,"{'country': 'FR', 'authorId': 4864099, 'firstname': 'Karine', 'countryLabel': 'Frankrijk'}",True
+2023-01-27T20:03:37+0100,Parfait en 3e couche…,,5,"{'country': 'FR', 'authorId': 48368, 'firstname': 'MARIE PIERRE', 'countryLabel': 'Frankrijk'}",True
+2023-01-24T14:13:31+0100,"Très bon produit, prendre une taille au dessus",,5,"{'country': 'FR', 'authorId': 14265861, 'firstname': 'Sophie', 'gender': 'Vrouw', 'countryLabel': 'Frankrijk'}",True
+2023-01-22T14:02:36+0100,parfait,,5,"{'country': 'FR', 'authorId': 12612081, 'firstname': 'dominique', 'countryLabel': 'Frankrijk'}",True
+2023-01-22T13:16:30+0100,Idéal pour le running…,,5,"{'country': 'FR', 'authorId': 14260654, 'firstname': 'Aurélie', 'countryLabel': 'Frankrijk'}",True
+2023-01-22T09:27:45+0100,Super pratique!,,5,"{'country': 'CH', 'authorId': 14260173, 'firstname': 'Catharina', 'countryLabel': 'Zwitserland'}",True
+2023-01-20T10:58:57+0100,Parfait,,5,"{'country': 'FR', 'authorId': 14254048, 'firstname': 'Thuriane', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Frankrijk'}",True
+2023-01-19T18:48:10+0100,Très bien. Utilisé par…,,5,"{'country': 'FR', 'authorId': 6992743, 'firstname': 'BEATRIX', 'countryLabel': 'Frankrijk'}",True
+2023-01-18T20:42:37+0100,J aime beaucoup la…,,5,"{'country': 'FR', 'authorId': 4798224, 'firstname': 'caroline', 'countryLabel': 'Frankrijk'}",True
+2023-01-17T16:02:45+0100,très peu mis pour…,,4,"{'country': 'FR', 'authorId': 6167688, 'firstname': 'CLAUDE', 'countryLabel': 'Frankrijk'}",True
+2023-01-16T19:00:27+0100,Belles finitions sur cette…,,5,"{'country': 'FR', 'authorId': 53291, 'firstname': 'David', 'countryLabel': 'Frankrijk'}",True
+2023-01-13T21:56:30+0100,Très agréable et technique.,,5,"{'country': 'FR', 'authorId': 14238460, 'firstname': 'Cecile', 'countryLabel': 'Frankrijk'}",True
+2023-01-16T11:53:52+0100,J’ai offert cette veste…,,5,"{'country': 'FR', 'authorId': 11304931, 'firstname': 'BEATRICE', 'countryLabel': 'Frankrijk'}",True
+2023-01-13T16:11:54+0100,Un peu compliquée à…,,4,"{'country': 'FR', 'authorId': 12047612, 'firstname': 'CORINNE', 'countryLabel': 'Frankrijk'}",True
+2023-01-13T08:44:31+0100,Très agréable par temps…,,5,"{'country': 'FR', 'authorId': 12719967, 'firstname': 'Orlane', 'countryLabel': 'Frankrijk'}",True
+2023-01-13T06:46:43+0100,Article conforme,,5,"{'country': 'FR', 'authorId': 14236826, 'firstname': 'Catherine', 'countryLabel': 'Frankrijk'}",True
+2023-01-12T15:25:34+0100,Bien,,4,"{'country': 'FR', 'authorId': 13301289, 'firstname': 'jean-louis', 'countryLabel': 'Frankrijk'}",True
 2023-03-29T20:03:01+0200,Mooie lichte en warme jas,,5,"{'country': 'BE', 'authorId': 12235842, 'firstname': 'kathy', 'countryLabel': 'België'}",True
 2023-02-06T18:40:41+0100,Winddicht en warm,,5,"{'country': 'NL', 'authorId': 14299938, 'firstname': 'Hillie', 'countryLabel': 'Nederland'}",True
 2022-02-05T18:28:24+0100,Really worth the price.,,5,"{'country': 'NL', 'authorId': 13254989, 'firstname': 'Kiara', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
@@ -760,6 +973,33 @@ Trou pour…",,5,"{'country': 'FR', 'authorId': 14349560, 'firstname': 'Julie', 
 2021-02-17T08:07:31+0100,Gud product,,5,"{'country': 'IN', 'authorId': 12052756, 'firstname': 'Gursharan', 'gender': 'Vrouw', 'countryLabel': 'India'}",True
 2021-02-02T11:33:00+0100,good one,,5,"{'country': 'IN', 'authorId': 12029395, 'firstname': 'Ashok', 'gender': 'Man', 'countryLabel': 'India'}",True
 2021-02-02T08:22:59+0100,Good jacket,,5,"{'country': 'IN', 'authorId': 12019878, 'firstname': 'Sharad', 'gender': 'Man', 'countryLabel': 'India'}",True
+2021-02-08T13:00:02+0100,Vfm,,5,,True
+2021-01-18T10:56:52+0100,Good,,5,"{'country': 'IN', 'authorId': 11978362, 'firstname': 'Kushagra', 'countryLabel': 'India'}",True
+2021-01-17T19:20:39+0100,Excellent Jacket..,,4,"{'country': 'IN', 'authorId': 11975943, 'firstname': 'Ravi', 'gender': 'Man', 'countryLabel': 'India'}",True
+2021-01-16T11:30:39+0100,excellent product,,5,"{'country': 'IN', 'authorId': 11968909, 'firstname': 'Sweta', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'India'}",True
+2021-01-16T12:02:24+0100,Best products,,5,"{'country': 'IN', 'authorId': 11965509, 'firstname': 'Imran', 'gender': 'Man', 'countryLabel': 'India'}",True
+2021-01-18T18:56:09+0100,Liked it,,5,"{'country': 'IN', 'authorId': 11957906, 'firstname': 'Deepanjana', 'countryLabel': 'India'}",True
+2021-01-11T12:14:29+0100,WORTH FOR ITS MONEY,,5,"{'country': 'IN', 'authorId': 11950544, 'firstname': 'Sathish', 'countryLabel': 'India'}",True
+2020-12-21T09:12:56+0100,"Fits to size- great quality, light and comfortable",,5,"{'country': 'GB', 'authorId': 11757649, 'firstname': 'Susan', 'gender': 'Vrouw', 'countryLabel': 'Verenigd Koninkrijk'}",True
+2020-11-16T10:32:25+0100,Very Good,,5,"{'country': 'IN', 'authorId': 11740752, 'firstname': 'Awadhesh', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'India'}",True
+2020-11-05T13:20:28+0100,satisfied,,5,"{'country': 'IN', 'authorId': 11710402, 'firstname': 'Sadaf', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-02T19:36:08+0100,Schöne Wanderjacke,,5,"{'country': 'DE', 'authorId': 14256137, 'firstname': 'Viola', 'countryLabel': 'Duitsland'}",True
+2023-02-23T06:47:49+0100,Super,,5,"{'country': 'DE', 'authorId': 14339143, 'firstname': 'Christine', 'gender': 'Vrouw', 'countryLabel': 'Duitsland'}",True
+2022-12-31T19:19:11+0100,Super Jacke,,5,"{'country': 'DE', 'authorId': 11448388, 'firstname': 'Monika', 'countryLabel': 'Duitsland'}",True
+2022-11-24T20:35:29+0100,Schöne Jacke,,5,"{'country': 'DE', 'authorId': 14057061, 'firstname': 'Katja', 'countryLabel': 'Duitsland'}",True
+2022-09-28T08:03:47+0200,Nähte nicht Wasserdicht,,2,"{'country': 'DE', 'authorId': 13952940, 'firstname': 'Gislinde', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Duitsland'}",False
+2022-01-10T11:38:01+0100,Tolle Farbe und Wärm,,5,"{'country': 'DE', 'authorId': 12991462, 'firstname': 'Seema', 'countryLabel': 'Duitsland'}",True
+2021-12-08T16:46:38+0100,Hier stimmt einfach alles!,,5,"{'country': 'DE', 'authorId': 13067661, 'firstname': 'Bettina', 'countryLabel': 'Duitsland'}",True
+2021-12-07T17:27:26+0100,Toller Mantel,,4,"{'country': 'DE', 'authorId': 12998992, 'firstname': 'Marlene', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",True
+2021-11-23T23:25:58+0100,es war,,5,"{'country': 'DE', 'authorId': 13016527, 'firstname': 'Ruslan', 'countryLabel': 'Duitsland'}",True
+2021-10-14T20:08:12+0200,Super Jacke zum Topp Preis,,5,"{'country': 'DE', 'authorId': 12609875, 'firstname': 'Annette', 'countryLabel': 'Duitsland'}",True
+2021-04-29T13:18:37+0200,Sehr schöne warme wasserdichte Jacke,,5,"{'country': 'DE', 'authorId': 11672221, 'firstname': 'Olga', 'countryLabel': 'Duitsland'}",True
+2021-02-15T14:09:18+0100,Leichte Jacke für die nicht ganz so eisigen Tage,,5,"{'country': 'DE', 'authorId': 614574, 'firstname': 'Jacqueline', 'countryLabel': 'Duitsland'}",True
+2021-02-02T16:21:26+0100,Hochwertige Winterjacke,,5,"{'country': 'DE', 'authorId': 12025308, 'firstname': 'Anja', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",True
+2021-01-25T17:59:13+0100,Hält warm,,3,"{'country': 'DE', 'authorId': 11985274, 'firstname': 'Nadine', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",False
+2021-01-15T09:30:44+0100,Super Jacke,,5,"{'country': 'DE', 'authorId': 10889276, 'firstname': 'Sonja', 'gender': 'Vrouw', 'age': '20-29', 'countryLabel': 'Duitsland'}",True
+2021-01-13T17:46:27+0100,Positiv überrascht,,5,"{'country': 'DE', 'authorId': 11918026, 'firstname': 'Julia', 'countryLabel': 'Duitsland'}",True
+2020-12-21T09:53:24+0100,Lieblingsjacke,,5,"{'country': 'DE', 'authorId': 11866960, 'firstname': 'Roswitha', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'Duitsland'}",True
 2023-03-29T20:03:01+0200,Mooie lichte en warme jas,,5,"{'country': 'BE', 'authorId': 12235842, 'firstname': 'kathy', 'countryLabel': 'België'}",True
 2023-02-06T18:40:41+0100,Winddicht en warm,,5,"{'country': 'NL', 'authorId': 14299938, 'firstname': 'Hillie', 'countryLabel': 'Nederland'}",True
 2022-02-05T18:28:24+0100,Really worth the price.,,5,"{'country': 'NL', 'authorId': 13254989, 'firstname': 'Kiara', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
@@ -845,26 +1085,33 @@ Trou pour…",,5,"{'country': 'FR', 'authorId': 14349560, 'firstname': 'Julie', 
 2021-02-17T08:07:31+0100,Gud product,,5,"{'country': 'IN', 'authorId': 12052756, 'firstname': 'Gursharan', 'gender': 'Vrouw', 'countryLabel': 'India'}",True
 2021-02-02T11:33:00+0100,good one,,5,"{'country': 'IN', 'authorId': 12029395, 'firstname': 'Ashok', 'gender': 'Man', 'countryLabel': 'India'}",True
 2021-02-02T08:22:59+0100,Good jacket,,5,"{'country': 'IN', 'authorId': 12019878, 'firstname': 'Sharad', 'gender': 'Man', 'countryLabel': 'India'}",True
-2023-03-16T09:43:57+0100,Winterjas,,4,"{'country': 'BE', 'authorId': 13150992, 'firstname': 'Rita', 'countryLabel': 'België'}",True
-2023-03-05T10:58:25+0100,Blij mee,,4,"{'country': 'NL', 'authorId': 14309866, 'firstname': 'Marion', 'countryLabel': 'Nederland'}",True
-2023-02-26T19:26:50+0100,Mooi jas,,5,"{'country': 'NL', 'authorId': 14348443, 'firstname': 'S.', 'countryLabel': 'Nederland'}",True
-2023-02-11T20:57:22+0100,Fantastische Jas,,5,"{'country': 'NL', 'authorId': 14313469, 'firstname': 'Selena', 'countryLabel': 'Nederland'}",True
-2023-02-04T23:22:35+0100,"Heerlijke jas, maar..",,3,"{'country': 'NL', 'authorId': 12045801, 'firstname': 'mirjam', 'countryLabel': 'Nederland'}",True
-2023-01-20T19:21:24+0100,Lekker warme waterdichte jas,,5,"{'country': 'NL', 'authorId': 14255983, 'firstname': 'Sandra', 'countryLabel': 'Nederland'}",True
-2023-01-19T22:12:12+0100,goed,,4,"{'country': 'BE', 'authorId': 2014376, 'firstname': 'MICHELINE', 'countryLabel': 'België'}",True
-2023-01-14T11:52:34+0100,TOP jas,,5,"{'country': 'BE', 'authorId': 14239291, 'firstname': 'Sofie', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'België'}",True
-2023-01-13T19:08:26+0100,Ja gewoon goed allemaal,,5,"{'country': 'NL', 'authorId': 14238169, 'firstname': 'Joke', 'countryLabel': 'Nederland'}",True
-2022-12-22T17:23:19+0100,warme jas,,4,"{'country': 'BE', 'authorId': 4333568, 'firstname': 'johny', 'countryLabel': 'België'}",True
-2022-12-21T18:29:44+0100,Top,,5,"{'country': 'BE', 'authorId': 14178249, 'firstname': 'Patrick', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'België'}",True
-2022-12-17T00:30:38+0100,Eerste ik heb gekocht de merk Quechua omdat ik spr,,5,"{'country': 'NL', 'authorId': 14162690, 'firstname': 'Dolores', 'countryLabel': 'Nederland'}",True
-2022-11-30T18:27:59+0100,Aan te raden!,,4,"{'country': 'BE', 'authorId': 14112322, 'firstname': 'ilse', 'countryLabel': 'België'}",True
-2022-11-25T15:29:17+0100,jas,,4,"{'country': 'BE', 'authorId': 3962490, 'firstname': 'Marc', 'countryLabel': 'België'}",True
-2022-11-16T20:52:32+0100,waterdichte winterjasHeb lang gezocht,,4,"{'country': 'BE', 'authorId': 13394730, 'firstname': 'ANGELE', 'countryLabel': 'België'}",True
-2022-11-06T13:19:07+0100,Warme vest,,5,"{'country': 'BE', 'authorId': 1960721, 'firstname': 'Gerda', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'België'}",True
-2022-11-03T11:57:09+0100,Winterjas,,5,"{'country': 'BE', 'authorId': 5876073, 'firstname': 'Inge', 'countryLabel': 'België'}",True
-2022-10-19T20:38:14+0200,waterdichte winterjas,,4,"{'country': 'BE', 'authorId': 2144340, 'firstname': 'Wendy', 'countryLabel': 'België'}",True
-2022-10-17T16:07:58+0200,Te klein van maat,,3,"{'country': 'NL', 'authorId': 12197768, 'firstname': 'Henny', 'countryLabel': 'Nederland'}",True
-2022-10-08T10:33:37+0200,Warm maar stevig  stof in de buiten kant,,3,"{'country': 'BE', 'authorId': 13977245, 'firstname': 'Aline', 'countryLabel': 'België'}",True
+2021-02-08T13:00:02+0100,Vfm,,5,,True
+2021-01-18T10:56:52+0100,Good,,5,"{'country': 'IN', 'authorId': 11978362, 'firstname': 'Kushagra', 'countryLabel': 'India'}",True
+2021-01-17T19:20:39+0100,Excellent Jacket..,,4,"{'country': 'IN', 'authorId': 11975943, 'firstname': 'Ravi', 'gender': 'Man', 'countryLabel': 'India'}",True
+2021-01-16T11:30:39+0100,excellent product,,5,"{'country': 'IN', 'authorId': 11968909, 'firstname': 'Sweta', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'India'}",True
+2021-01-16T12:02:24+0100,Best products,,5,"{'country': 'IN', 'authorId': 11965509, 'firstname': 'Imran', 'gender': 'Man', 'countryLabel': 'India'}",True
+2021-01-18T18:56:09+0100,Liked it,,5,"{'country': 'IN', 'authorId': 11957906, 'firstname': 'Deepanjana', 'countryLabel': 'India'}",True
+2021-01-11T12:14:29+0100,WORTH FOR ITS MONEY,,5,"{'country': 'IN', 'authorId': 11950544, 'firstname': 'Sathish', 'countryLabel': 'India'}",True
+2020-12-21T09:12:56+0100,"Fits to size- great quality, light and comfortable",,5,"{'country': 'GB', 'authorId': 11757649, 'firstname': 'Susan', 'gender': 'Vrouw', 'countryLabel': 'Verenigd Koninkrijk'}",True
+2020-11-16T10:32:25+0100,Very Good,,5,"{'country': 'IN', 'authorId': 11740752, 'firstname': 'Awadhesh', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'India'}",True
+2020-11-05T13:20:28+0100,satisfied,,5,"{'country': 'IN', 'authorId': 11710402, 'firstname': 'Sadaf', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-03-02T19:36:08+0100,Schöne Wanderjacke,,5,"{'country': 'DE', 'authorId': 14256137, 'firstname': 'Viola', 'countryLabel': 'Duitsland'}",True
+2023-02-23T06:47:49+0100,Super,,5,"{'country': 'DE', 'authorId': 14339143, 'firstname': 'Christine', 'gender': 'Vrouw', 'countryLabel': 'Duitsland'}",True
+2022-12-31T19:19:11+0100,Super Jacke,,5,"{'country': 'DE', 'authorId': 11448388, 'firstname': 'Monika', 'countryLabel': 'Duitsland'}",True
+2022-11-24T20:35:29+0100,Schöne Jacke,,5,"{'country': 'DE', 'authorId': 14057061, 'firstname': 'Katja', 'countryLabel': 'Duitsland'}",True
+2022-09-28T08:03:47+0200,Nähte nicht Wasserdicht,,2,"{'country': 'DE', 'authorId': 13952940, 'firstname': 'Gislinde', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Duitsland'}",False
+2022-01-10T11:38:01+0100,Tolle Farbe und Wärm,,5,"{'country': 'DE', 'authorId': 12991462, 'firstname': 'Seema', 'countryLabel': 'Duitsland'}",True
+2021-12-08T16:46:38+0100,Hier stimmt einfach alles!,,5,"{'country': 'DE', 'authorId': 13067661, 'firstname': 'Bettina', 'countryLabel': 'Duitsland'}",True
+2021-12-07T17:27:26+0100,Toller Mantel,,4,"{'country': 'DE', 'authorId': 12998992, 'firstname': 'Marlene', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",True
+2021-11-23T23:25:58+0100,es war,,5,"{'country': 'DE', 'authorId': 13016527, 'firstname': 'Ruslan', 'countryLabel': 'Duitsland'}",True
+2021-10-14T20:08:12+0200,Super Jacke zum Topp Preis,,5,"{'country': 'DE', 'authorId': 12609875, 'firstname': 'Annette', 'countryLabel': 'Duitsland'}",True
+2021-04-29T13:18:37+0200,Sehr schöne warme wasserdichte Jacke,,5,"{'country': 'DE', 'authorId': 11672221, 'firstname': 'Olga', 'countryLabel': 'Duitsland'}",True
+2021-02-15T14:09:18+0100,Leichte Jacke für die nicht ganz so eisigen Tage,,5,"{'country': 'DE', 'authorId': 614574, 'firstname': 'Jacqueline', 'countryLabel': 'Duitsland'}",True
+2021-02-02T16:21:26+0100,Hochwertige Winterjacke,,5,"{'country': 'DE', 'authorId': 12025308, 'firstname': 'Anja', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",True
+2021-01-25T17:59:13+0100,Hält warm,,3,"{'country': 'DE', 'authorId': 11985274, 'firstname': 'Nadine', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Duitsland'}",False
+2021-01-15T09:30:44+0100,Super Jacke,,5,"{'country': 'DE', 'authorId': 10889276, 'firstname': 'Sonja', 'gender': 'Vrouw', 'age': '20-29', 'countryLabel': 'Duitsland'}",True
+2021-01-13T17:46:27+0100,Positiv überrascht,,5,"{'country': 'DE', 'authorId': 11918026, 'firstname': 'Julia', 'countryLabel': 'Duitsland'}",True
+2020-12-21T09:53:24+0100,Lieblingsjacke,,5,"{'country': 'DE', 'authorId': 11866960, 'firstname': 'Roswitha', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'Duitsland'}",True
 2022-05-17T12:58:48+0200,Lekker warm zowel in de winter als in de lente,,5,"{'country': 'NL', 'authorId': 12513598, 'firstname': 'Jacqueline', 'countryLabel': 'Nederland'}",True
 2022-04-12T17:23:09+0200,,,5,"{'country': 'BE', 'authorId': 1483339, 'firstname': 'DIRK', 'countryLabel': 'België'}",True
 2022-02-27T18:52:14+0100,Geen,,5,"{'country': 'BE', 'authorId': 13318568, 'firstname': 'FRANK', 'countryLabel': 'België'}",True
@@ -892,26 +1139,6 @@ Trou pour…",,5,"{'country': 'FR', 'authorId': 14349560, 'firstname': 'Julie', 
 2023-03-07T11:34:58+0100,,,5,"{'country': 'IN', 'authorId': 14368508, 'firstname': 'mamta', 'countryLabel': 'India'}",True
 2023-03-02T09:06:43+0100,,,4,"{'country': 'IN', 'authorId': 14355887, 'firstname': 'Girija', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-03-02T08:57:45+0100,,,4,"{'country': 'IN', 'authorId': 14355288, 'firstname': 'teja', 'gender': 'Vrouw', 'age': '20-29', 'countryLabel': 'India'}",True
-2023-02-10T11:23:31+0100,,,5,"{'country': 'IN', 'authorId': 14304438, 'firstname': 'Niraj', 'countryLabel': 'India'}",True
-2023-02-10T10:49:48+0100,,,5,"{'country': 'IN', 'authorId': 14302875, 'firstname': 'anil', 'countryLabel': 'India'}",True
-2023-02-10T09:54:50+0100,,,5,"{'country': 'IN', 'authorId': 14200037, 'firstname': 'Utpal', 'countryLabel': 'India'}",True
-2023-02-10T12:39:45+0100,,,5,"{'country': 'IN', 'authorId': 14302347, 'firstname': 'Shreya', 'gender': 'Man', 'countryLabel': 'India'}",True
-2023-02-09T12:58:42+0100,,,5,"{'country': 'IN', 'authorId': 14301763, 'firstname': 'Aishwarya', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'India'}",True
-2023-02-08T11:01:27+0100,,,5,"{'country': 'IN', 'authorId': 14299505, 'firstname': 'Zubair Ahmed', 'countryLabel': 'India'}",True
-2023-02-07T13:37:03+0100,,,5,"{'country': 'IN', 'authorId': 14298823, 'firstname': 'raghavendra', 'countryLabel': 'India'}",True
-2023-02-07T12:27:31+0100,,,5,"{'country': 'IN', 'authorId': 14298823, 'firstname': 'raghavendra', 'countryLabel': 'India'}",True
-2023-02-07T12:24:47+0100,,,5,"{'country': 'IN', 'authorId': 14298839, 'firstname': 'ritesh', 'countryLabel': 'India'}",True
-2023-02-07T10:25:05+0100,,,4,"{'country': 'IN', 'authorId': 14298034, 'firstname': 'chandrashekar', 'countryLabel': 'India'}",True
-2023-02-06T12:30:28+0100,,,5,"{'country': 'IN', 'authorId': 14247775, 'firstname': 'ajay', 'countryLabel': 'India'}",True
-2023-02-07T10:00:33+0100,,,4,"{'country': 'IN', 'authorId': 14295597, 'firstname': 'gaurav', 'gender': 'Man', 'countryLabel': 'India'}",True
-2023-02-06T11:44:38+0100,,,5,"{'country': 'IN', 'authorId': 14293396, 'firstname': 'midhun', 'gender': 'Man', 'countryLabel': 'India'}",True
-2023-02-06T10:31:38+0100,,,4,"{'country': 'IN', 'authorId': 14292609, 'firstname': 'Vineela', 'countryLabel': 'India'}",True
-2023-02-07T16:14:41+0100,Warm jacket,,4,"{'country': 'GB', 'authorId': 14291210, 'firstname': 'Karen', 'countryLabel': 'Verenigd Koninkrijk'}",True
-2023-02-03T06:12:23+0100,,,1,"{'country': 'IN', 'authorId': 14287003, 'firstname': 'Bineesha', 'countryLabel': 'India'}",False
-2023-02-03T05:23:45+0100,,,4,"{'country': 'IN', 'authorId': 14286894, 'firstname': 'dipankar', 'countryLabel': 'India'}",True
-2023-01-30T05:57:53+0100,Bad Quality,,2,"{'country': 'IN', 'authorId': 14276843, 'firstname': 'Lisha', 'gender': 'Man', 'countryLabel': 'India'}",True
-2023-01-25T05:50:25+0100,,,4,"{'country': 'IN', 'authorId': 14266327, 'firstname': 'nitin', 'gender': 'Man', 'countryLabel': 'India'}",True
-2023-01-24T05:28:21+0100,,,5,"{'country': 'IN', 'authorId': 14264874, 'firstname': 'Kalpana', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-01-24T05:19:19+0100,,,5,"{'country': 'IN', 'authorId': 14263819, 'firstname': 'moni', 'countryLabel': 'India'}",True
 2023-01-24T05:19:36+0100,,,4,"{'country': 'IN', 'authorId': 14263769, 'firstname': 'Mini', 'countryLabel': 'India'}",True
 2023-01-23T13:02:33+0100,,,4,"{'country': 'IN', 'authorId': 14261010, 'firstname': 'muthuselvam', 'gender': 'Man', 'countryLabel': 'India'}",True
@@ -932,6 +1159,10 @@ Trou pour…",,5,"{'country': 'FR', 'authorId': 14349560, 'firstname': 'Julie', 
 2023-01-11T12:04:20+0100,,,3,"{'country': 'IN', 'authorId': 14230335, 'firstname': 'Dilipkumar', 'countryLabel': 'India'}",False
 2023-01-09T12:10:22+0100,Excellent Product,,5,"{'country': 'IN', 'authorId': 14226889, 'firstname': 'shruti', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'India'}",True
 2023-01-09T08:23:10+0100,,,4,"{'country': 'IN', 'authorId': 14226304, 'firstname': 'kamlesh', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-01-09T06:07:17+0100,,,5,"{'country': 'IN', 'authorId': 14226179, 'firstname': 'Jitendra', 'countryLabel': 'India'}",True
+2023-01-09T08:32:14+0100,,,5,"{'country': 'IN', 'authorId': 14225170, 'firstname': 'sangeeta', 'countryLabel': 'India'}",True
+2023-01-09T12:40:59+0100,,,5,"{'country': 'IN', 'authorId': 14223267, 'firstname': 'Johnny', 'gender': 'Man', 'countryLabel': 'India'}",True
+2023-01-09T08:48:15+0100,,,5,"{'country': 'IN', 'authorId': 14221373, 'firstname': 'Vipul', 'gender': 'Man', 'countryLabel': 'India'}",True
 2023-02-14T18:39:06+0100,Winterjas,,4,"{'country': 'BE', 'authorId': 11564216, 'firstname': 'cedric', 'countryLabel': 'België'}",True
 2023-02-02T12:53:24+0100,ZEER TEVREDEN,,5,"{'country': 'BE', 'authorId': 2051380, 'firstname': 'Johan', 'countryLabel': 'België'}",True
 2023-01-20T07:53:38+0100,Jas,,5,"{'country': 'BE', 'authorId': 1610105, 'firstname': 'Kevin', 'countryLabel': 'België'}",True
@@ -1013,6 +1244,67 @@ Trou pour…",,5,"{'country': 'FR', 'authorId': 14349560, 'firstname': 'Julie', 
 2023-01-04T17:24:55+0100,Satisfait,,5,"{'country': 'FR', 'authorId': 14210045, 'firstname': 'Gallet', 'countryLabel': 'Frankrijk'}",True
 2022-12-31T11:32:17+0100,"Très bon produit 
 Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'countryLabel': 'Frankrijk'}",True
+2022-12-30T23:27:28+0100,Parfait,,5,"{'country': 'FR', 'authorId': 14204156, 'firstname': 'Victory', 'countryLabel': 'Frankrijk'}",True
+2022-12-29T18:38:23+0100,Bon produit prix rapport…,,4,"{'country': 'FR', 'authorId': 11423895, 'firstname': 'Karl', 'countryLabel': 'Frankrijk'}",True
+2022-12-27T08:08:40+0100,Rapport qualité prix au…,,5,"{'country': 'FR', 'authorId': 14192691, 'firstname': 'Richard', 'countryLabel': 'Frankrijk'}",True
+2022-12-23T21:16:34+0100,veste,,5,"{'country': 'FR', 'authorId': 6252869, 'firstname': 'celine', 'countryLabel': 'Frankrijk'}",True
+2022-12-23T22:07:22+0100,Idéal pour un premier hiver européen,,5,"{'country': 'FR', 'authorId': 14182157, 'firstname': 'Pichai', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Frankrijk'}",True
+2022-12-21T20:40:55+0100,Taille très bien,,5,"{'country': 'FR', 'authorId': 6752000, 'firstname': 'Sylviane', 'countryLabel': 'Frankrijk'}",True
+2022-12-21T00:30:34+0100,Bonne coupe. Taille bien.…,,5,"{'country': 'FR', 'authorId': 5965652, 'firstname': 'Corinne', 'countryLabel': 'Frankrijk'}",True
+2022-12-18T10:31:02+0100,Très bien mais manque…,,5,"{'country': 'FR', 'authorId': 14166811, 'firstname': 'Elisabeth', 'countryLabel': 'Frankrijk'}",True
+2022-12-17T23:20:31+0100,Ras,,5,"{'country': 'FR', 'authorId': 5095034, 'firstname': 'David', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-12-16T22:40:25+0100,"Veste vraiment bien conçue,…",,5,"{'country': 'FR', 'authorId': 12208773, 'firstname': 'Lionel', 'countryLabel': 'Frankrijk'}",True
+2022-12-16T07:30:10+0100,Bien,,5,"{'country': 'FR', 'authorId': 13356513, 'firstname': 'Vincent', 'countryLabel': 'Frankrijk'}",True
+2022-12-13T14:31:54+0100,Cette peste est vraiment…,,5,"{'country': 'FR', 'authorId': 13912464, 'firstname': 'Hervé', 'countryLabel': 'Frankrijk'}",True
+2022-12-10T23:40:58+0100,Très belle veste bien…,,5,"{'country': 'FR', 'authorId': 14144017, 'firstname': 'Nadia', 'countryLabel': 'Frankrijk'}",True
+2022-12-10T21:41:01+0100,Bonne qualité des chaussants,,5,"{'country': 'FR', 'authorId': 14143793, 'firstname': 'alain', 'countryLabel': 'Frankrijk'}",True
+2022-12-09T12:40:51+0100,Super,,5,"{'country': 'FR', 'authorId': 14138783, 'firstname': 'imane', 'age': '40-49', 'countryLabel': 'Frankrijk'}",True
+2022-12-09T00:10:45+0100,Produit léger mais chaud…,,5,"{'country': 'FR', 'authorId': 11991219, 'firstname': 'MARIE THERESE', 'countryLabel': 'Frankrijk'}",True
+2022-12-08T23:30:48+0100,Très bonne veste tien…,,5,"{'country': 'FR', 'authorId': 13023570, 'firstname': 'Aurelia', 'countryLabel': 'Frankrijk'}",True
+2022-12-06T08:40:33+0100,Très bonne veste,,5,"{'country': 'BE', 'authorId': 14129180, 'firstname': 'Charlie', 'gender': 'Man', 'countryLabel': 'België'}",True
+2022-12-04T19:32:50+0100,parfait,,5,"{'country': 'FR', 'authorId': 14124676, 'firstname': 'CHRISTOPHE', 'countryLabel': 'Frankrijk'}",True
+2022-12-03T22:31:07+0100,"Veste de qualité, excellent…",,5,"{'country': 'FR', 'authorId': 6344831, 'firstname': 'michel', 'countryLabel': 'Frankrijk'}",True
+2022-12-02T06:30:29+0100,"Produit confortable, chaud.
+Excellent pour…",,4,"{'country': 'FR', 'authorId': 4250472, 'firstname': 'Isabelle', 'countryLabel': 'Frankrijk'}",True
+2022-12-01T22:50:43+0100,Limitation des entrées de…,,5,"{'country': 'FR', 'authorId': 13386815, 'firstname': 'Jean', 'countryLabel': 'Frankrijk'}",True
+2022-11-30T20:51:15+0100,"Satisfaite, bon rapport qualité…",,4,"{'country': 'FR', 'authorId': 1225748, 'firstname': 'Le Thi Yen Anh', 'countryLabel': 'Frankrijk'}",True
+2022-11-28T18:40:59+0100,Très bien et très…,,5,"{'country': 'FR', 'authorId': 10626761, 'firstname': 'radomir', 'countryLabel': 'Frankrijk'}",True
+2022-11-24T21:10:40+0100,Rapport qualité-prix imbattable avec…,,5,"{'country': 'FR', 'authorId': 14094384, 'firstname': 'olivier', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-11-22T18:41:59+0100,Veste d’un bon rapport…,,5,"{'country': 'FR', 'authorId': 11008133, 'firstname': 'Michel', 'countryLabel': 'Frankrijk'}",True
+2022-11-17T21:20:30+0100,usage quotidien sortie des…,,4,"{'country': 'FR', 'authorId': 14075900, 'firstname': 'Eric', 'countryLabel': 'Frankrijk'}",True
+2022-11-08T17:20:22+0100,Mon fils la porte…,,5,"{'country': 'FR', 'authorId': 6948925, 'firstname': 'Audrey', 'countryLabel': 'Frankrijk'}",True
+2022-11-05T21:01:31+0100,Top,,5,"{'country': 'FR', 'authorId': 9702347, 'firstname': 'myriam', 'countryLabel': 'Frankrijk'}",True
+2022-10-31T21:00:09+0100,Veste hiver,,5,"{'country': 'BE', 'authorId': 7713091, 'firstname': 'didier', 'countryLabel': 'België'}",True
+2022-10-26T20:31:02+0200,RAS,,5,"{'country': 'FR', 'authorId': 1219865, 'firstname': 'ANNICK', 'countryLabel': 'Frankrijk'}",True
+2022-10-22T19:43:37+0200,RAS,,4,"{'country': 'FR', 'authorId': 4831763, 'firstname': 'DOLORES', 'countryLabel': 'Frankrijk'}",True
+2022-10-19T19:20:27+0200,Ok,,5,"{'country': 'BE', 'authorId': 9146142, 'firstname': 'antonio', 'countryLabel': 'België'}",True
+2022-10-05T14:10:38+0200,Les produits de la…,,4,"{'country': 'FR', 'authorId': 13970493, 'firstname': 'ROBERT', 'countryLabel': 'Frankrijk'}",True
+2022-10-05T08:00:37+0200,bon rapport qualité prix,,5,"{'country': 'FR', 'authorId': 13969772, 'firstname': 'Matthieu', 'countryLabel': 'Frankrijk'}",True
+2022-09-29T20:11:51+0200,C’est une veste excellente!,,5,"{'country': 'FR', 'authorId': 4742187, 'firstname': 'FLORIN', 'countryLabel': 'Frankrijk'}",True
+2022-09-25T08:50:48+0200,Ça taille très grand…,,5,"{'country': 'FR', 'authorId': 13473793, 'firstname': 'Frederic', 'countryLabel': 'Frankrijk'}",True
+2022-08-19T18:51:17+0200,Génial juste ce que…,,5,"{'country': 'FR', 'authorId': 2014831, 'firstname': 'Lucien', 'countryLabel': 'Frankrijk'}",True
+2022-08-17T16:50:36+0200,blouson,,5,"{'country': 'FR', 'authorId': 13837953, 'firstname': 'Fabrice', 'countryLabel': 'Frankrijk'}",True
+2022-07-24T15:00:48+0200,très bien,,5,"{'country': 'FR', 'authorId': 207617, 'firstname': 'Philippe', 'countryLabel': 'Frankrijk'}",True
+2022-07-08T22:00:59+0200,bonne tenue,,4,"{'country': 'FR', 'authorId': 2079695, 'firstname': 'Marie Christine', 'countryLabel': 'Frankrijk'}",True
+2022-07-04T12:50:34+0200,N'a pas succomber à…,,5,"{'country': 'FR', 'authorId': 2211596, 'firstname': 'Mireille', 'countryLabel': 'Frankrijk'}",True
+2022-06-21T19:30:44+0200,Très bien,,5,"{'country': 'FR', 'authorId': 12559388, 'firstname': 'F', 'countryLabel': 'Frankrijk'}",True
+2022-04-16T19:52:16+0200,Bon produit fin mais…,,4,"{'country': 'FR', 'authorId': 229095, 'firstname': 'Alexandra', 'countryLabel': 'Frankrijk'}",True
+2022-04-14T23:20:52+0200,Super léger,,5,"{'country': 'FR', 'authorId': 6253037, 'firstname': 'christiane', 'countryLabel': 'Frankrijk'}",True
+2022-04-03T19:01:17+0200,Veste hiver de randonnée homme,,5,"{'country': 'BE', 'authorId': 1611983, 'firstname': 'Doriane', 'countryLabel': 'België'}",True
+2022-03-20T08:00:27+0100,Obligée de chercher dans…,,4,"{'country': 'FR', 'authorId': 314177, 'firstname': '', 'countryLabel': 'Frankrijk'}",True
+2022-03-07T13:50:27+0100,"Facile d'entretien, chaud et imperméable",,5,"{'country': 'FR', 'authorId': 13339476, 'firstname': 'Romain', 'countryLabel': 'Frankrijk'}",True
+2022-03-04T06:40:35+0100,Bien,,5,"{'country': 'FR', 'authorId': 13330180, 'firstname': 'Wael', 'countryLabel': 'Frankrijk'}",True
+2022-02-28T19:20:56+0100,Ras,,5,"{'country': 'FR', 'authorId': 13321470, 'firstname': 'thierry', 'countryLabel': 'Frankrijk'}",True
+2022-02-21T17:50:24+0100,Super contre le vent,,5,"{'country': 'FR', 'authorId': 13052219, 'firstname': 'Lionel', 'countryLabel': 'Frankrijk'}",True
+2022-02-15T14:50:29+0100,très bon rapport qualité…,,4,"{'country': 'FR', 'authorId': 4964011, 'firstname': 'NAPOLEON', 'countryLabel': 'Frankrijk'}",True
+2022-02-15T12:30:44+0100,Taille un peu petit,,5,"{'country': 'FR', 'authorId': 12443306, 'firstname': 'Audrey', 'countryLabel': 'Frankrijk'}",True
+2022-02-14T13:30:23+0100,Très bon confort et…,,5,"{'country': 'FR', 'authorId': 13281040, 'firstname': 'Jean', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-02-14T10:40:56+0100,impeccable,,5,"{'country': 'FR', 'authorId': 13161727, 'firstname': 'abdel', 'countryLabel': 'Frankrijk'}",True
+2022-02-10T07:30:24+0100,parfait,,5,"{'country': 'FR', 'authorId': 13268313, 'firstname': 'Philippe', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-02-09T13:50:39+0100,Au top,,5,"{'country': 'FR', 'authorId': 13266223, 'firstname': 'Nicolas-Alessandro', 'gender': 'Man', 'countryLabel': 'Frankrijk'}",True
+2022-02-09T11:00:37+0100,A recommandé,,5,"{'country': 'FR', 'authorId': 13052071, 'firstname': 'CHRISTOPHE', 'countryLabel': 'Frankrijk'}",True
+2022-02-10T15:02:24+0100,Top . Qualité prix…,,5,"{'country': 'FR', 'authorId': 10813463, 'firstname': 'Collin', 'countryLabel': 'Frankrijk'}",True
+2022-02-07T19:21:08+0100,Bon produit,,5,"{'country': 'FR', 'authorId': 10717665, 'firstname': 'Stéphane', 'countryLabel': 'Frankrijk'}",True
 2023-03-10T19:57:54+0100,Perfekt,,5,"{'country': 'DE', 'authorId': 2430236, 'firstname': 'Katrin', 'countryLabel': 'Deutschland'}",True
 2023-01-10T20:38:32+0100,Tolles Preis-Leistungs-Verhältnis,,5,"{'country': 'DE', 'authorId': 14231507, 'firstname': 'Katja', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
 2022-11-08T18:49:14+0100,Regenjacke,,5,"{'country': 'DE', 'authorId': 14057844, 'firstname': 'Ute', 'countryLabel': 'Deutschland'}",True
@@ -1113,6 +1405,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2019-05-28T11:56:59+0200,tolle Jacke.,,5,,True
 2019-05-22T09:18:27+0200,Super zufrieden,,5,,True
 2019-04-29T14:32:30+0200,Super,,5,,True
+2019-02-12T14:00:34+0100,Preis-Leistungsverhältnis gut,,5,,True
+2019-01-10T12:12:22+0100,Tolle Regenjacke,,5,,True
+2019-01-07T09:24:22+0100,top Qualität,,5,,True
+2022-12-24T21:39:16+0100,Super Regenjacke,,5,"{'country': 'CH', 'authorId': 14187913, 'firstname': 'Veronika', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Schweiz'}",True
+2022-09-19T18:45:54+0200,Regenjacke,,5,"{'country': 'CH', 'authorId': 13930917, 'firstname': 'Simone', 'countryLabel': 'Schweiz'}",True
+2022-04-03T16:42:56+0200,Ideal passt super,,5,"{'country': 'CH', 'authorId': 13412434, 'firstname': 'Ivonne', 'countryLabel': 'Schweiz'}",True
+2021-09-03T19:39:11+0200,Tolle Jacke,,5,"{'country': 'CH', 'authorId': 12769786, 'firstname': 'Barbara', 'gender': 'Frau', 'countryLabel': 'Schweiz'}",True
+2021-08-16T22:09:32+0200,Segeljacke,,5,"{'country': 'CH', 'authorId': 12711661, 'firstname': 'Christine', 'gender': 'Frau', 'countryLabel': 'Schweiz'}",True
+2023-02-13T08:19:22+0100,Супер,,5,"{'country': 'BG', 'authorId': 11182851, 'firstname': 'Димитър', 'countryLabel': 'Bulgarien'}",True
+2022-11-08T08:22:05+0100,супер,,5,"{'country': 'BG', 'authorId': 13031748, 'firstname': 'Надежда', 'countryLabel': 'Bulgarien'}",True
+2022-10-19T14:56:11+0200,Непромокаемо яке,,5,"{'country': 'BG', 'authorId': 13968515, 'firstname': 'Анелия', 'countryLabel': 'Bulgarien'}",True
+2022-10-17T08:30:03+0200,Яко е,,5,,True
+2022-10-10T14:54:12+0200,Яке...,,5,,True
+2022-09-15T08:40:10+0200,доволна,,5,"{'country': 'BG', 'authorId': 13918391, 'firstname': 'Klavdia', 'countryLabel': 'Bulgarien'}",True
+2022-09-12T07:57:45+0200,Яке,,5,"{'country': 'BG', 'authorId': 13747429, 'firstname': 'Стоян', 'countryLabel': 'Bulgarien'}",True
+2022-08-01T09:27:19+0200,отличен продукт,,5,"{'country': 'BG', 'authorId': 13034240, 'firstname': 'Виолета', 'countryLabel': 'Bulgarien'}",True
+2022-06-28T14:33:19+0200,Много удобно и с перфектна визия,,5,,True
+2022-05-13T09:28:01+0200,"ДАМСКО ЯКЕ ЗА ВЕТРОХОДСТВО SAILING 100, ТЪМНОСИНЬО",,5,"{'country': 'BG', 'authorId': 11695810, 'firstname': 'Mariyana', 'countryLabel': 'Bulgarien'}",True
+2021-12-17T10:40:42+0100,Дамско яке,,5,,True
+2021-10-11T10:15:11+0200,Отличен продукт,,5,,True
+2021-07-21T15:40:21+0200,Много добро съотношение цена - качество,,5,"{'country': 'BG', 'authorId': 12621745, 'firstname': 'Мариана', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Bulgarien'}",True
+2020-11-11T08:55:10+0100,Страхотен продукт,,5,"{'country': 'BG', 'authorId': 11730637, 'firstname': 'петкова', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Bulgarien'}",True
+2020-09-07T09:29:17+0200,"TRIBORD ДАМСКО НЕПРОМОКАЕМО ЯКЕ 100, ЗА ПЛАВАНЕ, Р",,5,,True
+2020-08-26T08:28:46+0200,Перфектно яке,,5,"{'country': 'BG', 'authorId': 11127130, 'firstname': 'Галина', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Bulgarien'}",True
+2020-06-20T07:59:31+0200,Страхотно яке,,5,"{'country': 'BG', 'authorId': 10740188, 'firstname': 'Даяна', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Bulgarien'}",True
+2020-05-18T17:01:30+0200,ДАМСКО НЕПРОМОКАЕМО ЯКЕ SAILING 100,,5,"{'country': 'BG', 'authorId': 10461138, 'firstname': 'Анелия', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Bulgarien'}",True
+2019-09-16T10:41:06+0200,Страхотно яке!,,5,,True
+2019-05-28T10:27:34+0200,"Комфортно, освен красиво :)",,5,,True
+2019-04-02T10:44:03+0200,Супер,,5,,True
+2023-03-02T10:59:43+0100,Bunda,,5,"{'country': 'CZ', 'authorId': 14354481, 'firstname': 'Olga', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2023-01-13T17:23:56+0100,Sailing 100,,5,"{'country': 'CZ', 'authorId': 6884057, 'firstname': 'Martin', 'countryLabel': 'Tschechische Republik'}",True
+2022-10-20T16:49:26+0200,skvěle vyřešená kapuce i se stojáčkem na krk,,4,"{'country': 'CZ', 'authorId': 13840874, 'firstname': 'Daniela', 'countryLabel': 'Tschechische Republik'}",True
+2022-10-16T16:10:31+0200,Splňuje očekávání,,5,"{'country': 'CZ', 'authorId': 13011624, 'firstname': 'Dana', 'countryLabel': 'Tschechische Republik'}",True
+2022-07-30T09:47:36+0200,Vynikající bunda,,5,"{'country': 'CZ', 'authorId': 13771728, 'firstname': 'Zuzana', 'countryLabel': 'Tschechische Republik'}",True
+2022-06-08T15:24:09+0200,Super bunda,,5,,True
+2022-06-03T09:36:46+0200,sedí,,5,"{'country': 'CZ', 'authorId': 13578393, 'firstname': 'Petra', 'countryLabel': 'Tschechische Republik'}",True
+2022-05-27T19:43:51+0200,Suprova bunda,,5,"{'country': 'CZ', 'authorId': 13560829, 'firstname': 'Stanislava', 'countryLabel': 'Tschechische Republik'}",True
+2022-02-06T10:47:03+0100,dobrá bunda,,5,"{'country': 'CZ', 'authorId': 9633919, 'firstname': 'Irena', 'countryLabel': 'Tschechische Republik'}",True
+2021-11-24T11:19:47+0100,Bunda,,5,,True
+2021-09-27T15:33:20+0200,Spokojenost,,4,,True
 2023-03-31T08:35:31+0200,Super Winterjacke,,5,"{'country': 'DE', 'authorId': 14419782, 'firstname': 'Jessica', 'countryLabel': 'Deutschland'}",True
 2023-03-13T14:12:49+0100,Wirklich warmer Mantel,,5,"{'country': 'DE', 'authorId': 5615851, 'firstname': 'Kornelia', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
 2023-02-16T05:47:46+0100,Top,,5,"{'country': 'DE', 'authorId': 14323488, 'firstname': 'Stefanie', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",True
@@ -1213,6 +1545,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2019-10-02T10:14:05+0200,Winterjacke,,5,,True
 2019-09-26T17:10:35+0200,WARM!,,4,,True
 2019-09-11T12:48:43+0200,Wärmer geht es nicht,,5,,True
+2019-09-11T12:53:26+0200,top Winterjacke,,4,,True
+2019-07-02T11:11:40+0200,tatsächlich ultrawarm,,4,,True
+2019-06-06T10:11:45+0200,Meine Frau ist glücklich,,5,,True
+2019-04-23T08:12:35+0200,Super Qualität,,5,,True
+2019-04-14T20:56:08+0200,Perfect  hält warm,,5,,True
+2019-04-04T22:09:38+0200,Warme Jacke,,5,,True
+2019-04-01T15:29:53+0200,Sofort wieder,,5,,True
+2019-03-08T08:50:41+0100,Warm,,5,,True
+2019-02-25T15:10:08+0100,Super warm!,,5,,True
+2019-01-23T13:02:23+0100,Neue Lieblingsjacke,,5,,True
+2019-01-22T20:01:57+0100,Einfach nur wunderbar warm,,5,,True
+2019-01-07T10:28:06+0100,Wanderjacke Winterwandern SH500 Ultra-warm Damen b,,5,,True
+2019-01-02T09:29:39+0100,Superwarme Jacke,,5,,True
+2018-12-19T10:21:15+0100,Super zufrieden!!!,,5,,True
+2018-12-13T10:07:15+0100,Super tolle Jacke,,5,,True
+2018-12-12T11:54:44+0100,Super Einkauf,,5,,True
+2018-12-05T15:25:54+0100,Super Winterjacke,,4,,True
+2018-11-20T12:01:38+0100,Schöne Jacke,,4,,True
+2018-11-02T09:36:12+0100,Es fehlt was.,,4,,True
+2018-10-31T09:56:37+0100,Tolles Design und winterfest auf dem Fahrrad,,5,,True
+2018-10-31T09:56:37+0100,"Sehr warm, Preis-Leistung top! Sehr empfehlenswert",,5,,True
+2023-01-13T14:26:37+0100,Jacke,,1,"{'country': 'CH', 'authorId': 14199332, 'firstname': 'Spadini', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Schweiz'}",False
+2022-11-28T10:30:05+0100,Winterjacke,,5,"{'country': 'CH', 'authorId': 14031087, 'firstname': 'Diana', 'countryLabel': 'Schweiz'}",True
+2022-11-09T21:23:05+0100,Jacke,,5,"{'country': 'CH', 'authorId': 14060811, 'firstname': 'Astrid', 'countryLabel': 'Schweiz'}",True
+2022-03-02T20:30:18+0100,Parka,,5,"{'country': 'CH', 'authorId': 13326898, 'firstname': 'Rosmarie', 'gender': 'Frau', 'countryLabel': 'Schweiz'}",True
+2021-12-30T09:00:21+0100,Super,,5,"{'country': 'CH', 'authorId': 13143006, 'firstname': 'Margrit', 'gender': 'Frau', 'countryLabel': 'Schweiz'}",True
+2021-10-26T18:26:03+0200,Sehr hochwertige Winterjacke,,5,"{'country': 'CH', 'authorId': 12933595, 'firstname': 'Pily', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Schweiz'}",True
+2023-01-27T10:39:18+0100,Отлично дамско зимно яке,,5,"{'country': 'BG', 'authorId': 2333050, 'firstname': 'Велко', 'countryLabel': 'Bulgarien'}",True
+2023-01-02T07:58:30+0100,Зимно яке,,5,"{'country': 'BG', 'authorId': 14207700, 'firstname': 'Деница', 'countryLabel': 'Bulgarien'}",True
+2022-01-21T08:40:04+0100,Препоръчвам,,5,"{'country': 'BG', 'authorId': 13210067, 'firstname': 'Tsveta', 'gender': 'Frau', 'countryLabel': 'Bulgarien'}",True
+2021-12-07T09:54:49+0100,Ок,,5,,True
+2020-05-09T09:30:28+0200,Отлично!,,5,"{'country': 'BG', 'authorId': 9851044, 'firstname': 'Нина', 'gender': 'Frau', 'countryLabel': 'Bulgarien'}",True
+2020-01-22T09:55:18+0100,Чудесно яке,,5,,True
+2020-01-20T10:54:04+0100,Много добър продукт,,5,,True
+2019-12-04T10:55:47+0100,Яке,,5,,True
+2023-03-06T14:18:25+0100,doporučuji,,5,"{'country': 'CZ', 'authorId': 7781016, 'firstname': 'Jan', 'countryLabel': 'Tschechische Republik'}",True
+2023-01-25T09:44:02+0100,Pět hvězdiček,,5,"{'country': 'CZ', 'authorId': 13915691, 'firstname': 'Božena', 'countryLabel': 'Tschechische Republik'}",True
+2022-02-06T10:59:05+0100,SH 500 Ultra-Warm,,5,"{'country': 'CZ', 'authorId': 12161168, 'firstname': 'Filip', 'countryLabel': 'Tschechische Republik'}",True
+2022-01-31T17:38:20+0100,XL odpovídá,,5,"{'country': 'CZ', 'authorId': 12658218, 'firstname': 'Etelka', 'countryLabel': 'Tschechische Republik'}",True
+2022-01-27T13:11:08+0100,Spokojenost,,5,,True
 2023-04-01T19:01:14+0200,"Sehr schöne Jacke, aber",,4,"{'country': 'DE', 'authorId': 14422715, 'firstname': 'Susan', 'gender': 'Frau', 'age': '60 und älter', 'countryLabel': 'Deutschland'}",True
 2023-03-30T20:36:37+0200,Artikel genau wie beschrieben.,,5,"{'country': 'DE', 'authorId': 12839287, 'firstname': 'Farina', 'countryLabel': 'Deutschland'}",True
 2023-03-27T10:16:05+0200,Schicke Jacke,,5,"{'country': 'DE', 'authorId': 1538469, 'firstname': 'Katrin', 'countryLabel': 'Deutschland'}",True
@@ -1313,26 +1685,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2021-05-26T16:11:51+0200,Preis-Leistungsverhältnis passt,,5,"{'country': 'DE', 'authorId': 12404299, 'firstname': 'Manuela', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",True
 2021-05-26T16:23:26+0200,tolle Wanderjacke,,4,"{'country': 'DE', 'authorId': 12276028, 'firstname': 'Tina', 'countryLabel': 'Deutschland'}",True
 2021-05-20T15:31:03+0200,Voll überzeugt,,5,"{'country': 'DE', 'authorId': 12385121, 'firstname': 'Nina', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",True
-2023-04-01T15:50:10+0200,nicht dicht,,1,"{'country': 'DE', 'authorId': 8005526, 'firstname': 'Bettina', 'countryLabel': 'Deutschland'}",False
-2023-03-26T15:14:41+0200,praktischer und preiswerter Regenschutz,,5,"{'country': 'DE', 'authorId': 14336713, 'firstname': 'Karsten', 'countryLabel': 'Deutschland'}",True
-2023-03-19T09:19:39+0100,Sehr gutes Preis - Leistungsverhältnis,,4,"{'country': 'DE', 'authorId': 14397292, 'firstname': 'Judith', 'countryLabel': 'Deutschland'}",True
-2023-02-07T14:25:28+0100,Leider nicht Wasserdicht,,3,"{'country': 'DE', 'authorId': 11897717, 'firstname': 'Anke', 'countryLabel': 'Deutschland'}",False
-2022-12-30T08:39:35+0100,Das war NIX,,2,"{'country': 'DE', 'authorId': 14188187, 'firstname': 'Sibylle', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",False
-2022-12-22T21:33:49+0100,Passt super,,5,"{'country': 'DE', 'authorId': 14182004, 'firstname': 'Belinda', 'countryLabel': 'Deutschland'}",True
-2022-12-23T19:34:48+0100,Regenjacke,,5,"{'country': 'DE', 'authorId': 12942547, 'firstname': 'Herbert', 'countryLabel': 'Deutschland'}",True
-2022-11-24T23:18:22+0100,:yes:,,5,"{'country': 'DE', 'authorId': 14094662, 'firstname': 'Flamia', 'countryLabel': 'Deutschland'}",True
-2022-10-21T21:23:25+0200,"Tolles, preiswertes Regencape",,5,"{'country': 'DE', 'authorId': 13722220, 'firstname': 'Gottfried', 'countryLabel': 'Deutschland'}",True
-2022-10-09T20:59:42+0200,Kleines Geld - zu empfehlen,,5,"{'country': 'DE', 'authorId': 13981831, 'firstname': 'Tamara', 'countryLabel': 'Deutschland'}",True
-2022-09-29T14:57:09+0200,Super Preis Leistungsverhältnis,,5,"{'country': 'DE', 'authorId': 5051488, 'firstname': 'Teresa', 'countryLabel': 'Deutschland'}",True
-2022-09-13T07:36:26+0200,tolle Regen,,5,"{'country': 'DE', 'authorId': 13913274, 'firstname': 'Monika', 'countryLabel': 'Deutschland'}",True
-2022-09-08T21:33:55+0200,Nee...,,2,"{'country': 'DE', 'authorId': 13901449, 'firstname': 'Christine', 'gender': 'Frau', 'age': '60 und älter', 'countryLabel': 'Deutschland'}",False
-2022-08-31T19:51:54+0200,:yes:,,5,"{'country': 'DE', 'authorId': 13877728, 'firstname': 'Sheila', 'countryLabel': 'Deutschland'}",True
-2022-07-20T15:49:03+0200,.,,5,"{'country': 'DE', 'authorId': 11897987, 'firstname': 'Gudrun', 'countryLabel': 'Deutschland'}",True
-2022-07-09T08:56:28+0200,Leichte Regenjacke,,5,"{'country': 'DE', 'authorId': 287844, 'firstname': 'Daniela', 'countryLabel': 'Deutschland'}",True
-2022-01-09T11:40:00+0100,tolle Regenjacke,,5,"{'country': 'DE', 'authorId': 9782995, 'firstname': 'Petra', 'countryLabel': 'Deutschland'}",True
-2022-01-04T20:33:45+0100,Gut,,5,"{'country': 'DE', 'authorId': 12807463, 'firstname': 'Thomas', 'countryLabel': 'Deutschland'}",True
-2021-12-02T08:02:01+0100,Richtig gut,,5,"{'country': 'DE', 'authorId': 13044298, 'firstname': 'Silke', 'countryLabel': 'Deutschland'}",True
-2021-12-01T18:07:09+0100,Top ,,5,"{'country': 'DE', 'authorId': 13041155, 'firstname': 'Maria', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
+2021-05-20T15:33:29+0200,Retoure,,3,"{'country': 'DE', 'authorId': 12382085, 'firstname': 'Frank', 'gender': 'Mann', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",False
+2021-05-26T15:20:23+0200,spannt an der Brust,,1,"{'country': 'DE', 'authorId': 12380288, 'firstname': 'Maija', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",False
+2021-05-14T09:24:49+0200,Angenehm zu tragen,,4,"{'country': 'DE', 'authorId': 12377700, 'firstname': 'Bianca', 'countryLabel': 'Deutschland'}",True
+2021-05-14T15:36:39+0200,Großartige Jacke!,,5,"{'country': 'DE', 'authorId': 12374219, 'firstname': 'Sabine', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
+2021-05-14T09:57:38+0200,"Tolle Jacke, Windfest und regenfest",,5,"{'country': 'DE', 'authorId': 12370793, 'firstname': 'Dunja', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
+2021-05-05T18:04:46+0200,sehr schöne Jacke,,5,"{'country': 'DE', 'authorId': 7348759, 'firstname': 'Marta', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",True
+2021-04-27T09:45:14+0200,Tolle Jacke,,5,"{'country': 'DE', 'authorId': 12312920, 'firstname': 'Verena', 'countryLabel': 'Deutschland'}",True
+2021-04-22T11:40:17+0200,Das wandern ist des Müllers Lust,,5,"{'country': 'DE', 'authorId': 12301937, 'firstname': 'Claudia', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
+2021-04-09T10:14:28+0200,Toll!,,5,"{'country': 'DE', 'authorId': 11008823, 'firstname': 'Sarah', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Deutschland'}",True
+2021-04-06T11:24:21+0200,Wanderjacke,,5,"{'country': 'DE', 'authorId': 12242933, 'firstname': 'Gerlinde', 'countryLabel': 'Deutschland'}",True
+2021-03-24T16:35:35+0100,Sehr schön,,4,"{'country': 'DE', 'authorId': 12208471, 'firstname': 'Mandy', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
+2021-03-24T10:50:43+0100,Absolut dicht,,5,"{'country': 'DE', 'authorId': 10653660, 'firstname': 'Jürgen', 'countryLabel': 'Deutschland'}",True
+2021-03-23T10:50:18+0100,Schöne Jacke,,5,"{'country': 'DE', 'authorId': 12196935, 'firstname': 'Corinna', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
+2021-03-19T12:52:33+0100,jetzt ist die zeit die neue zu kaufen,,5,"{'country': 'DE', 'authorId': 10217466, 'firstname': 'Helena', 'countryLabel': 'Deutschland'}",True
+2021-03-01T10:11:40+0100,.,,5,"{'country': 'DE', 'authorId': 12129606, 'firstname': 'Björn', 'gender': 'Mann', 'countryLabel': 'Deutschland'}",True
+2021-02-23T09:27:01+0100,Alles bestens. Tolle Jacke.,,5,"{'country': 'DE', 'authorId': 10245287, 'firstname': 'Stefan', 'countryLabel': 'Deutschland'}",True
+2020-12-08T10:48:16+0100,Super Preis-Leistungsverhältnis,,5,"{'country': 'DE', 'authorId': 11824400, 'firstname': 'Stefani', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",True
+2020-11-17T12:47:55+0100,Wanderjacke Bergwandern MH100 wasserdicht Damen bo,,5,"{'country': 'DE', 'authorId': 288091, 'firstname': 'Michel', 'countryLabel': 'Deutschland'}",True
+2020-11-11T13:19:42+0100,top,,5,"{'country': 'DE', 'authorId': 4177710, 'firstname': 'Kerstin', 'countryLabel': 'Deutschland'}",True
+2020-11-11T13:27:10+0100,wasserdicht aber laut,,4,"{'country': 'DE', 'authorId': 6346492, 'firstname': 'Carolin', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
+2020-11-11T13:10:24+0100,Gutes Preis leistungsverhältnis,,4,"{'country': 'DE', 'authorId': 11706663, 'firstname': 'Oliver', 'countryLabel': 'Deutschland'}",True
+2020-11-11T13:23:19+0100,Regenjacke,,5,"{'country': 'DE', 'authorId': 7996707, 'firstname': 'Michael', 'countryLabel': 'Deutschland'}",True
+2020-11-11T13:08:57+0100,Gut,,4,"{'country': 'DE', 'authorId': 2147902, 'firstname': 'Daniel', 'countryLabel': 'Deutschland'}",True
+2020-11-02T19:01:52+0100,Durchweg spitze!,,5,"{'country': 'DE', 'authorId': 11692657, 'firstname': 'Beate', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
+2020-11-02T18:55:17+0100,Gut,,4,"{'country': 'DE', 'authorId': 4933633, 'firstname': 'Christian', 'countryLabel': 'Deutschland'}",True
+2020-11-02T14:31:38+0100,Material zu knisternd,,3,"{'country': 'DE', 'authorId': 11670115, 'firstname': 'Astrid', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",False
+2020-10-30T14:23:40+0100,Nicht schlecht,,5,"{'country': 'DE', 'authorId': 8758927, 'firstname': 'Sabine', 'countryLabel': 'Deutschland'}",True
+2020-10-30T14:34:16+0100,"Super Jacke, empfehlenswert",,5,"{'country': 'DE', 'authorId': 8022377, 'firstname': 'Carmen', 'countryLabel': 'Deutschland'}",True
+2020-10-20T15:53:16+0200,Tolle Jacke,,5,"{'country': 'DE', 'authorId': 11590579, 'firstname': 'Nina', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
+2020-10-19T10:23:35+0200,-,,4,"{'country': 'DE', 'authorId': 8602730, 'firstname': 'Carsten', 'countryLabel': 'Deutschland'}",True
+2020-10-14T17:12:37+0200,schöne Artikel,,5,"{'country': 'DE', 'authorId': 11539519, 'firstname': 'Elham', 'countryLabel': 'Deutschland'}",True
+2020-10-13T09:35:20+0200,Tolle Jacke!,,5,"{'country': 'DE', 'authorId': 11103952, 'firstname': 'Claudia', 'countryLabel': 'Deutschland'}",True
+2020-10-08T19:06:24+0200,Tolle Wanderjacke,,5,"{'country': 'DE', 'authorId': 11517555, 'firstname': 'Andrea', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
+2020-10-08T13:58:06+0200,"Super jacke,",,5,"{'country': 'DE', 'authorId': 8635898, 'firstname': 'Tanja', 'countryLabel': 'Deutschland'}",True
+2020-09-30T16:05:50+0200,Gute Regenjacke,,4,"{'country': 'DE', 'authorId': 1905547, 'firstname': 'Jürgen', 'gender': 'Mann', 'countryLabel': 'Deutschland'}",True
+2020-09-24T17:24:27+0200,Super Qualität,,5,"{'country': 'DE', 'authorId': 10626400, 'firstname': 'Harald', 'countryLabel': 'Deutschland'}",True
+2020-09-24T17:17:48+0200,Lässt einen nicht im Regen stehen,,5,"{'country': 'DE', 'authorId': 11396212, 'firstname': 'Julia', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
+2020-09-24T17:04:06+0200,super schöne Jacke.,,5,"{'country': 'DE', 'authorId': 8043743, 'firstname': 'Madlen', 'countryLabel': 'Deutschland'}",True
+2020-09-18T15:07:20+0200,Super bequeme Jacke,,5,"{'country': 'DE', 'authorId': 2396056, 'firstname': 'Melanie', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
+2020-09-10T12:21:40+0200,Sehr schöne Jacke,,5,"{'country': 'DE', 'authorId': 6190565, 'firstname': 'Valeska', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
 2021-11-30T23:02:46+0100,Meine Freundin ist immer noch zufrieden mit diesem,,5,"{'country': 'DE', 'authorId': 7925282, 'firstname': 'Ehsan', 'countryLabel': 'Deutschland'}",True
 2021-10-07T21:19:02+0200,Tolle praktische Jacke,,5,"{'country': 'DE', 'authorId': 12875896, 'firstname': 'Marina', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
 2021-10-06T16:40:38+0200,Sehr zufrieden,,5,"{'country': 'DE', 'authorId': 12872223, 'firstname': 'Nicole', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
@@ -1413,6 +1805,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2018-06-25T09:50:15+0200,Geile Regenjacke,,5,,True
 2018-06-25T09:46:08+0200,Top,,5,,True
 2018-06-04T10:41:07+0200,Preis/Leistung passt,,5,,True
+2018-04-29T19:31:43+0200,FUNKTIONAL,,5,,True
+2017-12-31T14:08:39+0100,Preis-Leistung super,,5,,True
+2017-09-27T13:31:06+0200,Kann die Jacke nur empfehlen!,,5,,True
+2017-09-07T09:59:06+0200,Nice Rain Jacket,,5,,True
+2017-08-28T23:57:25+0200,"Haelt Regen ab, man schwitzt aber ganz doll",,3,,True
+2017-08-14T09:26:48+0200,Regenjacke,,5,,True
+2017-08-06T21:47:22+0200,Sehr zu empfehlen,,5,,True
+2017-07-27T11:13:06+0200,Regenjacke,,4,,True
+2017-07-18T16:17:57+0200,Nicht dicht.,,1,,False
+2017-06-26T09:52:00+0200,Super,,5,,True
+2017-06-23T10:58:33+0200,Farbe nicht wie in der Artikelbeschreibung,,3,,True
+2017-06-09T15:05:20+0200,Farbe Schwarz ???,,3,,False
+2017-06-05T21:08:56+0200,Design,,4,,True
+2017-06-05T00:04:34+0200,Regenjacke,,5,,True
+2017-05-22T10:23:54+0200,Super,,5,,True
+2017-05-15T10:23:11+0200,Tolle leichte Regenjacke,,5,,True
+2016-11-27T21:25:14+0100,Fehlkauf,,1,,False
+2016-09-17T20:01:30+0200,Trockengeblieben,,4,,True
+2016-09-17T19:57:42+0200,Astrein,,5,,True
+2016-09-12T08:58:50+0200,sieht cool aus und ist praktisch,,4,,True
+2016-08-17T14:02:48+0200,"Hält nicht, was sie verspricht",,1,,False
+2016-08-12T11:15:39+0200,Klasse!!,,5,,True
+2016-07-29T09:35:44+0200,Regenjacke Rain-Cut Damen Rosa,,5,,True
+2016-07-29T09:32:47+0200,tolle regenjacke,,5,,True
+2016-07-01T11:02:16+0200,Super Regenjacke,,5,,True
+2016-06-27T10:08:53+0200,Praktischer und günstiger Regenschutz,,5,,True
+2016-06-23T09:19:45+0200,Regenjacke,,4,,True
+2016-06-03T09:56:40+0200,"gutes Preis Leistungs Verhältnis,fällt größer aus",,4,,True
+2016-05-30T12:27:30+0200,Super,,5,,True
+2016-05-20T09:53:39+0200,Super Jacke für kleinen Preis,,5,,True
+2016-05-18T10:38:09+0200,Regenjacke,,5,,True
+2016-05-12T09:51:55+0200,praktisch u cool,,5,,True
+2016-05-09T10:22:08+0200,Top Qualität Preis Verhältnis,,5,,True
+2016-04-27T10:56:57+0200,Regenjacke Rain-Cut Damen,,5,,True
+2016-04-05T17:57:58+0200,"praktisch, quadatisch, sehr gut",,5,,True
+2016-04-04T09:51:42+0200,Regenjacke,,5,,True
+2022-09-08T20:39:37+0200,Regendicht,,4,"{'country': 'CH', 'authorId': 13848586, 'firstname': 'Rolf', 'countryLabel': 'Schweiz'}",True
+2022-08-31T22:16:07+0200,Regenjacke,,4,"{'country': 'CH', 'authorId': 13550101, 'firstname': 'Angela', 'countryLabel': 'Schweiz'}",True
+2022-08-14T18:28:30+0200,Regenschutz,,3,"{'country': 'CH', 'authorId': 13301422, 'firstname': 'Gabriela', 'countryLabel': 'Schweiz'}",True
+2022-03-05T21:30:03+0100,Gut und kostengünstig.,,4,"{'country': 'CH', 'authorId': 13335337, 'firstname': 'Barbara Christina', 'countryLabel': 'Schweiz'}",True
 2022-12-17T12:48:27+0100,Einkauf,,5,"{'country': 'DE', 'authorId': 14163799, 'firstname': 'Annett', 'countryLabel': 'Deutschland'}",True
 2022-11-08T06:24:16+0100,Sehr zufrieden,,5,"{'country': 'DE', 'authorId': 8010474, 'firstname': 'Michaela', 'countryLabel': 'Deutschland'}",True
 2022-10-20T20:01:09+0200,Regenjacke,,5,"{'country': 'DE', 'authorId': 14009148, 'firstname': 'Ilka', 'countryLabel': 'Deutschland'}",True
@@ -1513,6 +1945,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2017-07-27T09:13:16+0200,"schnelle lieferung, tolles design und passform",,5,,True
 2017-06-30T17:11:09+0200,Gutes Preisleistungsverhältnis,,4,,True
 2017-05-26T13:34:02+0200,Alles perfekt.,,5,,True
+2017-05-26T13:32:43+0200,"Praktisch, luftig, trocken",,5,,True
+2017-05-22T10:16:53+0200,Alles Super!Danke!,,5,,True
+2017-05-02T09:21:06+0200,Praktische Jacke,,5,,True
+2017-03-17T11:24:23+0100,Regenjacke,,5,,True
+2016-10-26T09:17:35+0200,"Preiswert, ""umwerfender"" Geruch",,3,,False
+2016-10-11T14:07:00+0200,Ich suche noch xD,,4,,True
+2016-10-06T19:17:57+0200,Sehr gutes Preis-Leistungsverhältnis,,4,,True
+2016-10-03T14:15:15+0200,Alles Klasse,,5,,True
+2016-09-16T13:32:33+0200,Tolle Verarbeitung,,5,,True
+2016-09-05T10:45:08+0200,Alles gut,,5,,True
+2016-09-05T10:43:30+0200,Sitzt sehrgutq,,5,,True
+2016-08-29T10:04:16+0200,Begeistert,,5,,True
+2016-08-29T10:43:02+0200,Super Preis-Leistung,,5,,True
+2016-08-29T09:57:56+0200,Alles gut,,4,,True
+2016-08-24T18:11:10+0200,Sehr gut,,5,,True
+2016-08-24T11:44:56+0200,passt!,,5,,True
+2016-08-24T11:44:56+0200,"Tolle, leichte Regenjacke",,5,,True
+2016-08-22T10:04:09+0200,Schönes Design,,3,,False
+2016-08-22T09:21:43+0200,Schöne Regenjacke für wenig Geld,,4,,True
+2016-08-01T17:52:56+0200,Regenjacke,,4,,True
+2016-07-27T09:45:39+0200,Gute Wahl,,4,,True
+2016-07-04T10:05:52+0200,Schlechte Verarbeitung,,3,,True
+2016-06-13T10:59:35+0200,Sehr gut!,,5,,True
+2016-06-03T09:56:42+0200,Alles ok,,5,,True
+2016-05-23T10:39:41+0200,schöne taillierte Jacke,,5,,True
+2016-05-20T09:55:08+0200,"Tolle Jacke, leicht und praktisch",,5,,True
+2016-05-20T09:53:38+0200,Sehr schöne Regenjacke,,5,,True
+2016-05-02T09:49:11+0200,Guter Kauf,,5,,True
+2016-04-19T16:56:53+0200,"Toller Farbton, schicker Schnitt passt prima.",,5,,True
+2021-09-26T10:46:48+0200,Regenjacke,,5,"{'country': 'CH', 'authorId': 12840533, 'firstname': 'Melanie', 'countryLabel': 'Schweiz'}",True
+2021-07-26T19:36:39+0200,,,5,"{'country': 'CH', 'authorId': 12060302, 'firstname': 'Barbara', 'countryLabel': 'Schweiz'}",True
+2022-12-08T08:22:45+0100,.,,5,"{'country': 'BG', 'authorId': 13328915, 'firstname': 'Daniela', 'countryLabel': 'Bulgarien'}",True
+2022-10-12T10:20:13+0200,Практично,,5,"{'country': 'BG', 'authorId': 13986837, 'firstname': 'Йонита', 'countryLabel': 'Bulgarien'}",True
+2022-10-10T08:41:15+0200,яке,,5,"{'country': 'BG', 'authorId': 10033566, 'firstname': 'ЕМИЛ', 'countryLabel': 'Bulgarien'}",True
+2022-09-28T09:41:13+0200,Хубаво яке за предпазване от дъжд,,5,"{'country': 'BG', 'authorId': 10885655, 'firstname': 'Емилия', 'countryLabel': 'Bulgarien'}",True
+2022-09-01T08:06:48+0200,Много добър дъждобран,,5,"{'country': 'BG', 'authorId': 11745723, 'firstname': 'Събина', 'countryLabel': 'Bulgarien'}",True
+2022-06-01T13:58:16+0200,яке,,5,"{'country': 'BG', 'authorId': 13576289, 'firstname': 'LILQNA', 'gender': 'Frau', 'countryLabel': 'Bulgarien'}",True
+2021-10-31T08:10:24+0100,Уникално,,5,"{'country': 'BG', 'authorId': 12946189, 'firstname': 'Дарина', 'countryLabel': 'Bulgarien'}",True
+2020-10-14T07:54:35+0200,Полезно!,,5,"{'country': 'BG', 'authorId': 10073983, 'firstname': 'Екатерина', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Bulgarien'}",True
+2020-08-04T13:21:36+0200,Супер!,,5,,True
 2023-04-03T11:18:06+0200,"Fällt kleiner aus, lieber eine Nummer größer",,5,"{'country': 'DE', 'authorId': 14425159, 'firstname': 'Sabine', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
 2023-03-26T10:16:55+0200,Kauf nicht bereut,,5,"{'country': 'DE', 'authorId': 14411446, 'firstname': 'Sabine', 'countryLabel': 'Deutschland'}",True
 2023-03-13T08:30:16+0100,Beste Funktionalität,,5,"{'country': 'DE', 'authorId': 14381855, 'firstname': 'Andreas', 'gender': 'Mann', 'countryLabel': 'Deutschland'}",True
@@ -1613,6 +2085,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2020-07-09T12:56:44+0200,Sehr gute Jacke erfüllt voll meine Erwartungen,,5,"{'country': 'DE', 'authorId': 6598000, 'firstname': 'rudi', 'countryLabel': 'Deutschland'}",True
 2020-06-24T11:55:17+0200,nicht zufrieden,,3,"{'country': 'DE', 'authorId': 10739896, 'firstname': 'Verena', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",False
 2020-06-19T10:21:22+0200,Wander-Regenjacke,,5,"{'country': 'DE', 'authorId': 10586714, 'firstname': 'Elke', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",True
+2020-06-10T12:55:07+0200,Super Bequemlichkeit,,5,"{'country': 'DE', 'authorId': 9970699, 'firstname': 'Martina', 'countryLabel': 'Deutschland'}",True
+2023-04-06T08:12:27+0200,Wanderjacke,,5,"{'country': 'CH', 'authorId': 14431480, 'firstname': 'Eric', 'gender': 'Mann', 'countryLabel': 'Schweiz'}",True
+2023-03-14T01:16:19+0100,Tolle Wander-/Regenjacke,,5,"{'country': 'CH', 'authorId': 13250385, 'firstname': 'Marc', 'countryLabel': 'Schweiz'}",True
+2022-10-20T20:16:38+0200,Wanderjacke,,5,"{'country': 'CH', 'authorId': 14009200, 'firstname': 'Manuela', 'countryLabel': 'Schweiz'}",True
+2022-10-18T18:38:43+0200,Tolle und praktische Jacke,,5,"{'country': 'CH', 'authorId': 13954341, 'firstname': 'Helene', 'countryLabel': 'Schweiz'}",True
+2022-09-12T08:32:07+0200,,,4,"{'country': 'AT', 'authorId': 13531635, 'firstname': 'Monika', 'countryLabel': 'Österreich'}",True
+2021-12-29T15:18:17+0100,Wanderjacke Bergwandern,,5,"{'country': 'CH', 'authorId': 12269840, 'firstname': 'Gabriela', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Schweiz'}",True
+2021-11-08T22:17:40+0100,dicht!,,5,"{'country': 'CH', 'authorId': 12971494, 'firstname': 'Andrea', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Schweiz'}",True
+2021-09-19T20:53:11+0200,Regendichte Jacke,,5,"{'country': 'CH', 'authorId': 12820581, 'firstname': 'Anika', 'countryLabel': 'Schweiz'}",True
+2021-09-20T11:43:55+0200,Super Kacke,,5,"{'country': 'CH', 'authorId': 12817428, 'firstname': 'Jürg', 'gender': 'Mann', 'countryLabel': 'Schweiz'}",True
+2021-09-10T21:30:32+0200,Zufrieden,,5,"{'country': 'CH', 'authorId': 12550683, 'firstname': 'Erika', 'countryLabel': 'Schweiz'}",True
+2021-08-30T19:25:37+0200,angemessen,,4,"{'country': 'CH', 'authorId': 12687103, 'firstname': 'Marlise', 'countryLabel': 'Schweiz'}",True
+2021-08-09T10:25:32+0200,Regenjacke,,5,"{'country': 'CH', 'authorId': 12614446, 'firstname': 'Barbara', 'countryLabel': 'Schweiz'}",True
+2021-08-09T10:24:31+0200,Regenjacke,,5,"{'country': 'CH', 'authorId': 12614446, 'firstname': 'Barbara', 'countryLabel': 'Schweiz'}",True
+2021-08-10T11:02:58+0200,perfect magical jacket,,5,"{'country': 'AT', 'authorId': 12683819, 'firstname': 'Özlem', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Österreich'}",True
+2023-03-19T11:59:37+0100,Отличен избор,,5,"{'country': 'BG', 'authorId': 7538117, 'firstname': 'Владимир', 'countryLabel': 'Bulgarien'}",True
+2021-12-01T08:35:50+0100,Страхотно яке,,5,,True
+2020-05-31T16:11:31+0200,Дамско непромокаемо яке за преходи,,5,,True
+2023-02-16T11:28:09+0100,Melounová,,4,"{'country': 'CZ', 'authorId': 14323144, 'firstname': 'Jana', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2023-02-01T16:41:10+0100,Úžasná bunda,,5,"{'country': 'CZ', 'authorId': 11121493, 'firstname': 'Adrien', 'countryLabel': 'Tschechische Republik'}",True
+2023-01-11T13:52:46+0100,Bunda na turistiku,,5,"{'country': 'CZ', 'authorId': 13170642, 'firstname': 'Helena', 'countryLabel': 'Tschechische Republik'}",True
+2022-10-27T23:43:11+0200,Paráda,,5,"{'country': 'CZ', 'authorId': 13989899, 'firstname': 'jaroslav', 'gender': 'Mann', 'countryLabel': 'Tschechische Republik'}",True
+2022-07-24T10:51:24+0200,Dobré vlastnosti produktu za rozumnou cenu.,,5,,True
+2022-06-26T21:36:35+0200,Dámská bunda,,5,,True
+2022-05-15T19:59:36+0200,Naprosto nepromokavá bunda s pěkným designem,,5,"{'country': 'CZ', 'authorId': 12973432, 'firstname': 'Tereza', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2022-04-23T11:11:31+0200,Skvělá bunda,,5,"{'country': 'CZ', 'authorId': 13459311, 'firstname': 'Kateřina', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2022-02-15T11:53:19+0100,Skvělá bunda,,5,,True
+2021-12-08T12:34:03+0100,Super vlastnosti jen střih by mohl být u boků uzší,,4,"{'country': 'CZ', 'authorId': 11939658, 'firstname': 'Anna', 'countryLabel': 'Tschechische Republik'}",True
+2021-11-07T12:12:26+0100,Spokojenost,,5,,True
+2021-10-26T09:32:40+0200,Bunda Quechua MH500,,5,,True
+2021-10-26T09:25:25+0200,Sportovní bunda,,5,"{'country': 'CZ', 'authorId': 12915449, 'firstname': 'Hana', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
+2021-10-17T10:40:31+0200,Super,,5,,True
+2021-09-29T12:24:41+0200,Skvělá volba do nepříznivého počasí,,5,"{'country': 'CZ', 'authorId': 12576438, 'firstname': 'Magdalena', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-09-20T09:24:15+0200,"Perfektně sedí, zatím nevyzkoušeno v nižší teplotě",,5,,True
+2021-09-14T13:18:01+0200,Dámská turistická bunda,,5,,True
+2021-09-16T14:01:31+0200,Turistická bunda,,5,"{'country': 'CZ', 'authorId': 12800099, 'firstname': 'Michala', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-09-14T13:06:49+0200,skvělá bunda,,5,,True
+2021-09-12T10:41:49+0200,SPOKOJENOST,,5,"{'country': 'CZ', 'authorId': 12451278, 'firstname': 'Eliška', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-09-12T11:08:46+0200,SPOKOJENOST,,5,"{'country': 'CZ', 'authorId': 12451278, 'firstname': 'Eliška', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-09-09T12:32:59+0200,1*,,5,"{'country': 'CZ', 'authorId': 12778789, 'firstname': 'Monika', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
 2023-03-13T10:02:20+0100,Leicht aber warm,,5,"{'country': 'DE', 'authorId': 5615851, 'firstname': 'Kornelia', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Deutschland'}",True
 2023-03-11T15:00:33+0100,"Leichte, kompakte Übergangsjacke",,5,"{'country': 'DE', 'authorId': 14377770, 'firstname': 'Anke', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",True
 2023-02-25T20:06:55+0100,Leicht warm einfach super!,,5,"{'country': 'DE', 'authorId': 14345837, 'firstname': 'Valentina', 'countryLabel': 'Deutschland'}",True
@@ -1693,45 +2205,46 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2021-09-11T08:18:32+0200,Страхотно,,5,"{'country': 'BG', 'authorId': 9306713, 'firstname': 'Стоянка', 'gender': 'Frau', 'countryLabel': 'Bulgarien'}",True
 2021-04-08T08:34:15+0200,Дамско яке,,5,"{'country': 'BG', 'authorId': 12258529, 'firstname': 'Моника', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Bulgarien'}",True
 2021-04-05T13:00:25+0200,Препоръчвам този артикул,,5,"{'country': 'BG', 'authorId': 12249059, 'firstname': 'Вероника', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Bulgarien'}",True
-2021-01-11T07:59:54+0100,Много добър,,5,,True
-2020-10-30T08:40:08+0100,анонимен,,5,"{'country': 'BG', 'authorId': 11666560, 'firstname': 'анонимен', 'gender': 'Frau', 'countryLabel': 'Bulgarien'}",True
-2023-03-20T08:41:08+0100,Parádní bunda,,5,"{'country': 'CZ', 'authorId': 14399746, 'firstname': 'Stanislava', 'countryLabel': 'Tschechische Republik'}",True
-2023-01-13T15:36:52+0100,skvělá,,5,"{'country': 'CZ', 'authorId': 4600428, 'firstname': 'Gabriela', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Tschechische Republik'}",True
-2022-12-03T13:21:21+0100,Bunda MT 100 FORCLAZ,,5,"{'country': 'CZ', 'authorId': 6738917, 'firstname': 'Václava', 'countryLabel': 'Tschechische Republik'}",True
-2022-12-03T15:16:17+0100,Dámská turistická prošívaná bunda s kapucí MT 100,,5,"{'country': 'CZ', 'authorId': 14002136, 'firstname': 'Jana', 'countryLabel': 'Tschechische Republik'}",True
-2022-12-03T13:35:12+0100,Výborná bunda,,5,"{'country': 'CZ', 'authorId': 8503849, 'firstname': 'Vladimír', 'countryLabel': 'Tschechische Republik'}",True
-2022-10-13T15:00:09+0200,Excelentní,,5,,True
-2022-06-23T19:12:25+0200,bunda,,5,"{'country': 'CZ', 'authorId': 13637713, 'firstname': 'Dita', 'countryLabel': 'Tschechische Republik'}",True
-2022-06-03T09:42:53+0200,Bunda,,5,"{'country': 'CZ', 'authorId': 13581344, 'firstname': 'Anna', 'countryLabel': 'Tschechische Republik'}",True
-2022-05-21T17:37:05+0200,Bunda,,5,,True
-2022-03-15T16:07:34+0100,Super,,5,"{'country': 'CZ', 'authorId': 10882755, 'firstname': 'Tereza', 'countryLabel': 'Tschechische Republik'}",True
-2022-03-14T09:03:18+0100,Dámská turistická prošívaná bunda s kapucí do -5 °,,5,"{'country': 'CZ', 'authorId': 13354058, 'firstname': 'Lenka', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
-2022-01-29T11:29:54+0100,Bunda,,5,"{'country': 'CZ', 'authorId': 13234041, 'firstname': 'Radana', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
-2022-01-02T11:55:36+0100,Skvělá,,4,"{'country': 'CZ', 'authorId': 13147346, 'firstname': 'Michaela', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
-2021-12-15T11:03:40+0100,"Dobrý, L příliš malé",,5,"{'country': 'CZ', 'authorId': 13067619, 'firstname': 'Vendula', 'gender': 'Frau', 'age': '30-39 Jahre', 'countryLabel': 'Tschechische Republik'}",True
-2021-12-15T11:03:37+0100,Rozdíl mezi L a XL je výrazný,,5,"{'country': 'CZ', 'authorId': 13067619, 'firstname': 'Vendula', 'countryLabel': 'Tschechische Republik'}",True
-2021-12-14T18:58:59+0100,Dámská turistická prošívaná bunda s kapucí do -5 °,,5,"{'country': 'CZ', 'authorId': 12908897, 'firstname': 'Adéla', 'countryLabel': 'Tschechische Republik'}",True
-2021-11-07T12:50:09+0100,top bunda,,5,"{'country': 'CZ', 'authorId': 9618895, 'firstname': 'Renata', 'countryLabel': 'Tschechische Republik'}",True
-2021-11-07T13:57:52+0100,Zimní bunda,,5,"{'country': 'CZ', 'authorId': 9830995, 'firstname': 'Barbora', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
-2023-03-26T18:32:35+0200,Klasse Regenjacke,,5,"{'country': 'DE', 'authorId': 14412482, 'firstname': 'Eva', 'countryLabel': 'Deutschland'}",True
-2023-01-14T16:06:37+0100,leider nicht wasserdicht,,1,"{'country': 'DE', 'authorId': 14075053, 'firstname': 'Maja', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",False
-2022-11-24T20:44:32+0100,Schicke Regenjacke,,4,"{'country': 'DE', 'authorId': 14057061, 'firstname': 'Katja', 'countryLabel': 'Deutschland'}",True
-2022-11-08T13:56:46+0100,Schöne praktische Regenjacke,,5,"{'country': 'DE', 'authorId': 14057061, 'firstname': 'Katja', 'countryLabel': 'Deutschland'}",True
-2022-11-06T19:26:08+0100,sehr zufrieden,,5,"{'country': 'DE', 'authorId': 1302616, 'firstname': 'Bernd', 'countryLabel': 'Deutschland'}",True
-2022-10-31T09:05:49+0100,Katastrophe,,1,"{'country': 'DE', 'authorId': 14028550, 'firstname': 'Anja', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",False
-2022-10-24T15:52:51+0200,Top dünne Regenjacke Flexibel Weich,,5,"{'country': 'DE', 'authorId': 14018814, 'firstname': 'Diana', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",True
-2022-10-03T09:57:42+0200,Gut,,5,"{'country': 'DE', 'authorId': 5263420, 'firstname': 'Reik', 'countryLabel': 'Deutschland'}",True
-2022-09-19T11:42:46+0200,leider nicht wasserdicht,,1,"{'country': 'DE', 'authorId': 13929682, 'firstname': 'Stefanie', 'countryLabel': 'Deutschland'}",False
-2022-09-16T08:46:30+0200,Leider nicht für Starkregen geeignet,,4,"{'country': 'DE', 'authorId': 12794143, 'firstname': 'Uta', 'countryLabel': 'Deutschland'}",False
-2022-07-05T19:37:37+0200,"Sehr leicht, geringes Packmass",,5,"{'country': 'DE', 'authorId': 13691099, 'firstname': 'Kerstin', 'countryLabel': 'Deutschland'}",True
-2022-06-02T09:22:33+0200,Ins gesamt gute Produkte,,3,"{'country': 'DE', 'authorId': 13579155, 'firstname': 'Esther', 'countryLabel': 'Deutschland'}",True
-2022-05-10T20:38:48+0200,Toller Regenmantel,,5,"{'country': 'DE', 'authorId': 902227, 'firstname': 'Sandy', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
-2022-05-01T19:19:27+0200,Regenjacke,,4,"{'country': 'DE', 'authorId': 13485980, 'firstname': 'Marita', 'gender': 'Frau', 'countryLabel': 'Deutschland'}",True
-2022-04-11T18:01:47+0200,Wow!,,5,"{'country': 'DE', 'authorId': 471975, 'firstname': 'Sabine', 'countryLabel': 'Deutschland'}",True
-2022-01-05T18:11:33+0100,chic und leicht,,5,"{'country': 'DE', 'authorId': 13161873, 'firstname': 'Karin', 'countryLabel': 'Deutschland'}",True
-2021-12-29T19:45:34+0100,Absolut gutes Preis-Leistungs Verhältnis,,5,"{'country': 'DE', 'authorId': 13143182, 'firstname': 'Susanne', 'countryLabel': 'Deutschland'}",True
-2021-09-13T20:53:07+0200,Passt perfekt!,,5,"{'country': 'DE', 'authorId': 12802131, 'firstname': 'Sonja', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Deutschland'}",True
-2021-08-19T16:20:50+0200,Bin sehr zufrieden. Endlich!,,5,"{'country': 'DE', 'authorId': 12687652, 'firstname': 'Satsita', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Deutschland'}",True
+2021-11-02T09:33:31+0100,Bunda,,4,"{'country': 'CZ', 'authorId': 12949381, 'firstname': 'Darina', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
+2021-10-26T13:09:50+0200,Super bunda,,5,"{'country': 'CZ', 'authorId': 12478205, 'firstname': 'Michaela', 'countryLabel': 'Tschechische Republik'}",True
+2021-10-14T12:53:36+0200,Super,,5,,True
+2021-10-14T13:32:33+0200,Skvělá bunda,,5,"{'country': 'CZ', 'authorId': 10670898, 'firstname': 'Jarmila', 'countryLabel': 'Tschechische Republik'}",True
+2021-10-14T11:19:34+0200,Dobré,,4,"{'country': 'CZ', 'authorId': 12812106, 'firstname': 'Andrea', 'countryLabel': 'Tschechische Republik'}",True
+2021-10-03T11:13:58+0200,Turistická bunda tyrkysová,,5,"{'country': 'CZ', 'authorId': 12855814, 'firstname': 'Lenka', 'countryLabel': 'Tschechische Republik'}",True
+2021-06-22T19:40:27+0200,spokojenost,,5,"{'country': 'CZ', 'authorId': 12517550, 'firstname': 'Milada', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
+2021-06-01T10:36:48+0200,Dámská bunda,,5,,True
+2021-04-14T11:43:48+0200,bunda,,5,"{'country': 'CZ', 'authorId': 12274204, 'firstname': 'Hana', 'gender': 'Frau', 'age': '60 und älter', 'countryLabel': 'Tschechische Republik'}",True
+2021-04-14T10:21:16+0200,"Větší velikost,lehká,ale ne moc pěkná-obyčejná.",,3,"{'country': 'CZ', 'authorId': 12261951, 'firstname': 'Karolína', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-04-14T10:17:42+0200,lehká turistická bunda,,4,"{'country': 'CZ', 'authorId': 10454456, 'firstname': 'Marie', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-03-03T12:41:05+0100,Prostě úžasná,,5,,True
+2021-02-17T11:54:00+0100,Tuhle bundu miliji,,5,"{'country': 'CZ', 'authorId': 10510382, 'firstname': 'jitka', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-02-17T11:12:00+0100,Perfektní!!!,,5,"{'country': 'CZ', 'authorId': 11973026, 'firstname': 'Lucie', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-02-09T13:17:46+0100,Skvela bunda - splnila me ocekavani,,5,"{'country': 'CZ', 'authorId': 12042185, 'firstname': 'Naďa', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2021-02-09T12:32:52+0100,Výborná,,5,,True
+2021-01-11T11:58:39+0100,Skvěle pasuje,,5,"{'country': 'CZ', 'authorId': 11907744, 'firstname': 'Dagmar', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2020-12-23T11:54:03+0100,Spokojenost,,5,"{'country': 'CZ', 'authorId': 11791160, 'firstname': 'Dominik', 'gender': 'Mann', 'age': '50-59 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2020-12-21T11:23:57+0100,Kvalitně zpracovaná prošívaná bunda,,5,"{'country': 'CZ', 'authorId': 11874520, 'firstname': 'Eva', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
+2020-12-15T12:04:13+0100,Úžasná prošívaná bunda,,5,"{'country': 'CZ', 'authorId': 11496792, 'firstname': 'Tereza', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2020-12-15T11:49:39+0100,je super,,5,"{'country': 'CZ', 'authorId': 11823462, 'firstname': 'Dagmar', 'gender': 'Frau', 'countryLabel': 'Tschechische Republik'}",True
+2020-11-19T12:38:48+0100,Spokojenost,,5,"{'country': 'CZ', 'authorId': 11168813, 'firstname': 'Pavel', 'countryLabel': 'Tschechische Republik'}",True
+2020-11-19T12:34:36+0100,Spokojenost,,5,"{'country': 'CZ', 'authorId': 11715767, 'firstname': 'Pavla', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2020-11-04T11:32:26+0100,Skvělá bunda,,5,,True
+2020-10-26T11:57:27+0100,Spokojenost,,5,"{'country': 'CZ', 'authorId': 11599287, 'firstname': 'Bohuslava', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Tschechische Republik'}",True
+2023-04-04T09:18:58+0200,,,5,"{'country': 'IN', 'authorId': 14423319, 'firstname': 'jugal', 'gender': 'Mann', 'countryLabel': 'Indien'}",True
+2023-04-04T17:43:39+0200,Great color and fit,,5,"{'country': 'GB', 'authorId': 14422883, 'firstname': 'ted', 'gender': 'Mann', 'countryLabel': 'Vereinigtes Königreich'}",True
+2023-03-29T13:22:25+0200,,,4,"{'country': 'IN', 'authorId': 14416611, 'firstname': 'naresh', 'countryLabel': 'Indien'}",True
+2023-03-28T05:58:22+0200,,,5,"{'country': 'IN', 'authorId': 14022485, 'firstname': 'Harish', 'countryLabel': 'Indien'}",True
+2023-03-27T09:48:57+0200,,,5,"{'country': 'IN', 'authorId': 14412850, 'firstname': 'sunil', 'gender': 'Mann', 'countryLabel': 'Indien'}",True
+2023-03-22T05:58:38+0100,,,5,"{'country': 'IN', 'authorId': 14403052, 'firstname': 'vinita', 'countryLabel': 'Indien'}",True
+2023-03-21T13:36:45+0100,,,5,"{'country': 'IN', 'authorId': 11675132, 'firstname': 'deepak', 'countryLabel': 'Indien'}",True
+2023-03-20T11:54:11+0100,,,5,"{'country': 'IN', 'authorId': 14395108, 'firstname': 'Pooja', 'countryLabel': 'Indien'}",False
+2023-03-20T13:36:59+0100,,,5,"{'country': 'IN', 'authorId': 14395108, 'firstname': 'Pooja', 'countryLabel': 'Indien'}",False
+2023-03-20T13:23:45+0100,,,5,"{'country': 'IN', 'authorId': 14394662, 'firstname': 'Abhishek', 'gender': 'Mann', 'countryLabel': 'Indien'}",False
+2023-03-17T11:56:28+0100,,,5,"{'country': 'IN', 'authorId': 14187073, 'firstname': 'Pratik', 'countryLabel': 'Indien'}",False
+2023-03-17T12:54:37+0100,,,5,"{'country': 'IN', 'authorId': 14389772, 'firstname': 'Aashika', 'countryLabel': 'Indien'}",False
+2023-03-17T13:20:17+0100,,,5,"{'country': 'IN', 'authorId': 14389558, 'firstname': 'swetha', 'countryLabel': 'Indien'}",False
+2023-03-17T15:15:27+0100,,,5,"{'country': 'IN', 'authorId': 14243858, 'firstname': 'Saawan', 'countryLabel': 'Indien'}",False
+2023-03-16T14:26:10+0100,,,4,"{'country': 'IN', 'authorId': 14388412, 'firstname': 'Vipul', 'gender': 'Mann', 'countryLabel': 'Indien'}",False
 2021-08-19T16:02:10+0200,Schöne Alternative,,5,"{'country': 'DE', 'authorId': 6455437, 'firstname': 'Nadine', 'countryLabel': 'Deutschland'}",True
 2021-08-04T14:19:53+0200,regenjacke,,5,"{'country': 'DE', 'authorId': 10908877, 'firstname': 'eheleute-rose@online.de', 'countryLabel': 'Deutschland'}",True
 2021-08-04T14:19:43+0200,Top Regenmantel,,5,"{'country': 'DE', 'authorId': 7589543, 'firstname': 'Sandra', 'countryLabel': 'Deutschland'}",True
@@ -1813,3 +2326,42 @@ Utilisé…",,4,"{'country': 'FR', 'authorId': 2039897, 'firstname': 'Jean', 'co
 2021-12-31T22:26:19+0100,Waterproof jacket,,5,"{'country': 'GB', 'authorId': 13149197, 'firstname': 'Sanum', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",True
 2021-11-05T15:57:49+0100,Not waterproof,,2,"{'country': 'GB', 'authorId': 12960036, 'firstname': 'Judi', 'age': '60 und älter', 'countryLabel': 'Vereinigtes Königreich'}",False
 2021-11-01T12:10:39+0100,Denise Mckie,,5,"{'country': 'GB', 'authorId': 12942936, 'firstname': 'Denise', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-11-01T11:59:40+0100,Very good!,,5,"{'country': 'GB', 'authorId': 12934396, 'firstname': 'Cristiana', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-10-16T09:09:58+0200,Good coat,,5,"{'country': 'GB', 'authorId': 12444293, 'firstname': 'liz', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-09-28T08:59:51+0200,nice,,5,"{'country': 'IN', 'authorId': 12846743, 'firstname': 'Eiraf', 'gender': 'Mann', 'age': '20-29 Jahre', 'countryLabel': 'Indien'}",True
+2021-09-21T14:38:03+0200,Fab,,5,"{'country': 'GB', 'authorId': 12824849, 'firstname': 'Stacey', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-09-15T12:17:32+0200,Long waterproof jacket,,5,"{'country': 'GB', 'authorId': 11466573, 'firstname': 'Marie', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-08-29T17:31:02+0200,Great waterproof coat,,5,"{'country': 'GB', 'authorId': 12749303, 'firstname': 'Claire', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-07-14T12:30:32+0200,Cut and design perfect,,5,"{'country': 'IN', 'authorId': 11054800, 'firstname': 'Ankita', 'gender': 'Frau', 'age': '40-49 Jahre', 'countryLabel': 'Indien'}",True
+2021-07-01T10:08:46+0200,Good One,,5,"{'country': 'IN', 'authorId': 12488583, 'firstname': 'Nidhi', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Indien'}",True
+2021-06-23T10:45:03+0200,Beautiful coat and quality especially for price,,5,"{'country': 'GB', 'authorId': 12519020, 'firstname': 'Claire', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-07-01T14:37:06+0200,Perfect,,5,"{'country': 'IN', 'authorId': 12517868, 'firstname': 'PRABHASH', 'gender': 'Mann', 'age': '20-29 Jahre', 'countryLabel': 'Indien'}",True
+2021-06-22T10:08:47+0200,Zip,,1,"{'country': 'GB', 'authorId': 12516915, 'firstname': 'Linda', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",False
+2021-06-22T09:45:46+0200,Extremely Great Quality,,5,"{'country': 'IN', 'authorId': 12515787, 'firstname': 'Div', 'gender': 'Frau', 'age': '20-29 Jahre', 'countryLabel': 'Indien'}",True
+2021-06-07T10:44:52+0200,Advice,,1,"{'country': 'GB', 'authorId': 12462733, 'firstname': 'Sue', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Vereinigtes Königreich'}",False
+2021-06-07T10:43:21+0200,Long raincoat,,5,"{'country': 'GB', 'authorId': 12461642, 'firstname': 'Julie', 'gender': 'Frau', 'countryLabel': 'Vereinigtes Königreich'}",True
+2021-05-14T09:03:11+0200,5 stars for design...it looks great...,,3,"{'country': 'IN', 'authorId': 12368823, 'firstname': 'Pavitrata', 'gender': 'Mann', 'age': '30-39 Jahre', 'countryLabel': 'Indien'}",True
+2021-04-11T15:09:51+0200,Very nice jacket,,5,"{'country': 'GB', 'authorId': 12266728, 'firstname': 'Nadia', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Vereinigtes Königreich'}",True
+2023-03-01T17:30:17+0100,Impermeable,,5,"{'country': 'ES', 'authorId': 14355403, 'firstname': 'Nerea', 'countryLabel': 'Spanien'}",True
+2023-03-04T19:53:30+0100,María José,,5,"{'country': 'ES', 'authorId': 7127397, 'firstname': 'Mª José', 'countryLabel': 'Spanien'}",True
+2023-02-05T19:20:18+0100,Perfecto,,5,"{'country': 'ES', 'authorId': 7321714, 'firstname': 'Mª del Pilar', 'countryLabel': 'Spanien'}",True
+2023-01-25T07:00:19+0100,Paseo,,4,"{'country': 'ES', 'authorId': 7810361, 'firstname': 'Antonio', 'countryLabel': 'Spanien'}",True
+2023-01-24T15:00:58+0100,Me encanta para Andar,,5,"{'country': 'ES', 'authorId': 2473916, 'firstname': 'MANDARINA INGENIERIA S.L.', 'gender': 'Frau', 'age': '50-59 Jahre', 'countryLabel': 'Spanien'}",True
+2023-01-24T14:34:34+0100,"Muy bien, solo un ""pero""",,4,"{'country': 'ES', 'authorId': 11412259, 'firstname': 'Margarita', 'countryLabel': 'Spanien'}",True
+2023-01-10T10:23:44+0100,Elegante chaqueta impermeable,,5,"{'country': 'ES', 'authorId': 11042537, 'firstname': 'FRANCISCO MANUEL', 'countryLabel': 'Spanien'}",True
+2023-01-10T10:12:40+0100,Perfecta,,5,"{'country': 'ES', 'authorId': 14223140, 'firstname': 'Estefanía', 'countryLabel': 'Spanien'}",True
+2022-12-31T08:10:13+0100,Estupendo,,5,"{'country': 'ES', 'authorId': 13899176, 'firstname': 'ROCIO', 'countryLabel': 'Spanien'}",True
+2022-12-25T16:30:33+0100,Completo,,4,"{'country': 'ES', 'authorId': 721111, 'firstname': 'Cristina', 'countryLabel': 'Spanien'}",True
+2022-12-18T20:50:25+0100,buen chubasquero,,4,"{'country': 'ES', 'authorId': 14168861, 'firstname': 'Sara', 'countryLabel': 'Spanien'}",True
+2022-12-19T17:17:43+0100,Excelente prenda,,5,"{'country': 'MX', 'authorId': 14153481, 'firstname': 'Karla', 'countryLabel': 'Mexiko'}",True
+2022-12-13T22:10:24+0100,Chaqueta impermeable.,,5,"{'country': 'ES', 'authorId': 14153166, 'firstname': 'Maritza', 'countryLabel': 'Spanien'}",True
+2022-12-12T16:44:56+0100,Buena relacion costo beneficio,,5,"{'country': 'MX', 'authorId': 14140878, 'firstname': 'Monica', 'countryLabel': 'Mexiko'}",True
+2022-12-07T21:40:17+0100,Me encanta!!!!,,5,"{'country': 'ES', 'authorId': 14134266, 'firstname': 'María', 'countryLabel': 'Spanien'}",True
+2022-12-07T20:10:30+0100,Chaqueta impermeable muy ligera,,5,"{'country': 'ES', 'authorId': 2190246, 'firstname': 'Ana María', 'countryLabel': 'Spanien'}",True
+2022-12-03T19:10:28+0100,Lijero fácil de transportar y llevar,,4,"{'country': 'ES', 'authorId': 14121496, 'firstname': 'Francisco Javier', 'gender': 'Mann', 'countryLabel': 'Spanien'}",True
+2022-11-25T15:10:18+0100,Tallas mal,,3,"{'country': 'ES', 'authorId': 11355798, 'firstname': 'Silvia', 'countryLabel': 'Spanien'}",False
+2022-11-24T00:00:17+0100,Muy buena,,5,"{'country': 'ES', 'authorId': 2167684, 'firstname': 'concepción', 'countryLabel': 'Spanien'}",True
+2022-11-23T17:10:09+0100,Bonita Chaqueta,,5,"{'country': 'ES', 'authorId': 7900730, 'firstname': 'TERESITA LUISA', 'countryLabel': 'Spanien'}",True
+2022-11-21T15:50:21+0100,Satisfecha,,5,"{'country': 'ES', 'authorId': 14085783, 'firstname': 'RAQUEL MARIA', 'countryLabel': 'Spanien'}",True
+2022-11-15T19:10:24+0100,Buena compra,,5,"{'country': 'ES', 'authorId': 12510427, 'firstname': 'MARÍA', 'countryLabel': 'Spanien'}",True
+2022-11-14T15:20:28+0100,Genial,,5,"{'country': 'ES', 'authorId': 2123601, 'firstname': 'Silvia', 'countryLabel': 'Spanien'}",True
