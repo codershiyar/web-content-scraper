@@ -17,15 +17,7 @@ urls =[
 "https://www.decathlon.nl/nl/ajax/nfs/reviews/8545301?count="+total_per_page,
 "https://www.decathlon.nl/nl/ajax/nfs/reviews/8545301?count="+total_per_page,
 "https://www.decathlon.nl/nl/ajax/nfs/reviews/8640301,8754004,8640296,8640297,8641502,8641503,8738716?count="+total_per_page,
-"https://www.decathlon.nl/nl/ajax/nfs/reviews/8545278?count="+total_per_page,
-"https://www.decathlon.de/de/ajax/nfs/reviews/8510411,8675979,8491506,8491507,8675975,8675977,8548407,8675982?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8641748,8502398,8502402,8582973?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8492378,8493469,8595738,8612414?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8549506,8785309,8785310?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8611944,8383702,8600951,8611945,8732097,8732091?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8544336,8589860,8595740,8595741,8786644?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8573845,8573844,8573846,8587256,8677753?count="+total_per_page
-,"https://www.decathlon.de/de/ajax/nfs/reviews/8616129,8732081,8589388,8589389,8732082,8785335?count="+total_per_page
+"https://www.decathlon.nl/nl/ajax/nfs/reviews/8545278?count="+total_per_page
 ]
 
 
@@ -41,7 +33,7 @@ with open('decathlon.csv', 'w', newline='') as csvfile:
     writer.writeheader()
 
 for url in urls:
-    for i in range(7):
+    for i in range(15):
         try:
             reviews_url = url + "&page="+ str(i+1)
             print(reviews_url)
@@ -72,6 +64,7 @@ for url in urls:
                 
                 with open('decathlon.csv', 'a', newline='') as csvfile:
                     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                    # if  author["countryLabel"] == 'Nederland':
                     writer.writerow({'publishedAt': publishedAt, 'title': title, 'rating': rating, 'author':author, 'useful': useful})
             print("Link: " + reviews_url +" is done")
             time.sleep(1.5)

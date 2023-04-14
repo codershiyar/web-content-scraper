@@ -6,3 +6,6 @@
  - This project was developed specifically for the Data Science curriculum at The Hague University of Applied Sciences. It aims to provide students with hands-on experience in web scraping and data extraction techniques, which are essential skills in the field of data science.
 
  - It is imperative that you use this code only as a reference for understanding how web scraping works and how content can be extracted from other websites. It is strongly advised that you do not engage in any unauthorized scraping or data extraction activities, as this may be illegal and potentially harmful to the website owners.
+
+ ## Data Science tool for data analysis
+ - https://github.com/codershiyar/data_analyse   
